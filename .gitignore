@@ -1,0 +1,6 @@
+.venv/
+.podcast_certs/
+__pycache__/
+.DS_Store
+listos_para_airdrop/
+*.pyc
