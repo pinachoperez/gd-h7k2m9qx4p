@@ -1,20 +1,20 @@
 #!/usr/bin/env python3
 """
-Genera el feed RSS y sirve el podcast en la red local para Apple Podcasts.
+Genera el feed RSS y publica el podcast en GitHub Pages (Apple Podcasts).
 
 Un solo feed.xml con todos los temas. Las pubDate se escalonan por bloque:
   grupo 01 (más reciente) → arriba; luego 02; luego 09; etc.
-Así en Podcasts, ordenando por fecha, cada tema queda como un bloque contiguo.
 
-1. Mac e iPhone en la misma Wi‑Fi
-2. Ejecuta este script
-3. En el iPhone: Podcasts → Buscar → "Seguir un programa mediante su URL"
-4. Pega la URL del feed que imprime este script
+Flujo (por defecto):
+  1. Genera cover.jpg + feed.xml con la URL de GitHub Pages
+  2. git add / commit / push a origin
+  3. Imprime la URL del feed para Apple Podcasts
 
 Uso:
-  python servir_podcast.py
-  python servir_podcast.py --port 8080
-  python servir_podcast.py --solo-rss --base-url http://192.168.1.20:8080
+  python3 servir_podcast.py
+  python3 servir_podcast.py --mensaje "Nuevos episodios SEM"
+  python3 servir_podcast.py --solo-rss
+  python3 servir_podcast.py --base-url https://USER.github.io/REPO
 """
 
 from __future__ import annotations
@@ -23,13 +23,10 @@ import argparse
 import email.utils
 import html
 import re
-import socket
 import subprocess
 import sys
 import unicodedata
 from datetime import datetime, timedelta, timezone
-from functools import partial
-from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import quote
 
@@ -54,19 +51,12 @@ from generar_podcasts import (
 
 COVER_RSS = DIR / "cover.jpg"
 FEED_PATH = DIR / "feed.xml"
+ROBOTS_PATH = DIR / "robots.txt"
+NOJEKYLL_PATH = DIR / ".nojekyll"
 
 # Huecos de fecha: cada grupo cabe entero antes del siguiente
 DIAS_ENTRE_GRUPOS = 365
 DIAS_ENTRE_EPISODIOS = 1
-
-MIME = {
-    ".xml": "application/rss+xml; charset=utf-8",
-    ".m4a": "audio/x-m4a",
-    ".mp3": "audio/mpeg",
-    ".jpg": "image/jpeg",
-    ".jpeg": "image/jpeg",
-    ".png": "image/png",
-}
 
 
 def esc(text: str) -> str:
@@ -158,10 +148,8 @@ def listar_episodios_fechados() -> list[tuple[Path, str, int, Path, datetime]]:
         tema = nombre_tema(carpeta)
         cover = asegurar_cover_carpeta(carpeta, cover_raiz=DEFAULT_COVER)
         audios = listar_audios_en(carpeta)
-        # Tope del bloque: más nuevo que todo el grupo siguiente
         tope = ahora - timedelta(days=g_idx * DIAS_ENTRE_GRUPOS)
         for i, ep in enumerate(audios):
-            # Ep 1 = más reciente del bloque → queda arriba dentro del grupo
             pub = tope - timedelta(days=i * DIAS_ENTRE_EPISODIOS)
             out.append((ep, tema, g_idx + 1, cover, pub))
 
@@ -172,7 +160,6 @@ def listar_episodios_fechados() -> list[tuple[Path, str, int, Path, datetime]]:
 
 def generar_feed(base_url: str, show: str, artist: str, description: str) -> str:
     episodios = listar_episodios_fechados()
-    # Newest first en el XML (Apple / clientes lo esperan)
     episodios = sorted(episodios, key=lambda x: x[4], reverse=True)
 
     cover_url = url_join(base_url, COVER_RSS.name)
@@ -244,6 +231,16 @@ def generar_feed(base_url: str, show: str, artist: str, description: str) -> str
 """
 
 
+def asegurar_extras_pages() -> None:
+    """Archivos útiles en GitHub Pages (anti-index + sin Jekyll)."""
+    if not ROBOTS_PATH.is_file():
+        ROBOTS_PATH.write_text("User-agent: *\nDisallow: /\n", encoding="utf-8")
+        print(f"OK → {ROBOTS_PATH.name}")
+    if not NOJEKYLL_PATH.is_file():
+        NOJEKYLL_PATH.write_text("", encoding="utf-8")
+        print(f"OK → {NOJEKYLL_PATH.name}")
+
+
 def escribir_rss(
     base_url: str,
     *,
@@ -263,6 +260,8 @@ def escribir_rss(
         c = asegurar_cover_carpeta(carpeta, cover_raiz=cover)
         print(f"  cover tema → {c.relative_to(DIR)}")
 
+    asegurar_extras_pages()
+
     print("Generando feed.xml (un feed; bloques por fecha / prefijo)…")
     FEED_PATH.write_text(
         generar_feed(base_url, show, artist, description), encoding="utf-8"
@@ -281,137 +280,137 @@ def escribir_rss(
     return 0
 
 
-class PodcastHandler(SimpleHTTPRequestHandler):
-    """Sirve el feed y audios; tolera clientes que cortan la descarga (Apple Podcasts)."""
+# --- GitHub Pages -----------------------------------------------------------
 
-    protocol_version = "HTTP/1.1"
-
-    def __init__(self, *args, directory: str | None = None, **kwargs):
-        super().__init__(*args, directory=directory, **kwargs)
-
-    def guess_type(self, path: str):
-        ext = Path(path).suffix.lower()
-        if ext in MIME:
-            return MIME[ext]
-        return super().guess_type(path)
-
-    def end_headers(self) -> None:
-        self.send_header("Accept-Ranges", "bytes")
-        self.send_header("Access-Control-Allow-Origin", "*")
-        super().end_headers()
-
-    def copyfile(self, source, outputfile) -> None:
-        try:
-            super().copyfile(source, outputfile)
-        except (BrokenPipeError, ConnectionResetError, ConnectionAbortedError):
-            pass
-
-    def handle_one_request(self) -> None:
-        try:
-            super().handle_one_request()
-        except (BrokenPipeError, ConnectionResetError, ConnectionAbortedError):
-            pass
-
-    def log_message(self, fmt: str, *args) -> None:
-        sys.stdout.write("[%s] %s\n" % (self.log_date_time_string(), fmt % args))
+_GH_HTTPS = re.compile(
+    r"(?:https://|git@)github\.com[:/](?P<user>[^/]+)/(?P<repo>[^/.]+?)(?:\.git)?$"
+)
 
 
-def local_ip() -> str:
-    for iface in ("en0", "en1"):
-        try:
-            out = subprocess.check_output(
-                ["ipconfig", "getifaddr", iface], text=True
-            ).strip()
-            if out:
-                return out
-        except Exception:
-            pass
-    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+def git(*args: str, check: bool = True) -> subprocess.CompletedProcess[str]:
+    return subprocess.run(
+        ["git", *args],
+        cwd=DIR,
+        text=True,
+        capture_output=True,
+        check=check,
+    )
+
+
+def remoto_origin() -> str:
     try:
-        s.connect(("8.8.8.8", 80))
-        return s.getsockname()[0]
-    finally:
-        s.close()
+        out = git("remote", "get-url", "origin").stdout.strip()
+    except subprocess.CalledProcessError as e:
+        raise RuntimeError(
+            "No hay remote 'origin'. Crea el repo en GitHub y:\n"
+            "  git remote add origin https://github.com/USER/REPO.git"
+        ) from e
+    return out
 
 
-CERT_DIR = DIR / ".podcast_certs"
+def pages_base_url_desde_remote(remote: str | None = None) -> str:
+    """https://USER.github.io/REPO a partir de origin."""
+    url = (remote or remoto_origin()).strip()
+    m = _GH_HTTPS.search(url)
+    if not m:
+        raise RuntimeError(
+            f"No reconozco el remote de GitHub: {url}\n"
+            "Usa --base-url https://USER.github.io/REPO"
+        )
+    user, repo = m.group("user"), m.group("repo")
+    if repo.lower() == f"{user.lower()}.github.io":
+        return f"https://{user}.github.io"
+    return f"https://{user}.github.io/{repo}"
 
 
-def asegurar_certificado(ip: str) -> tuple[Path, Path]:
-    """Crea certificado auto-firmado (SAN con IP + localhost) si no existe."""
-    CERT_DIR.mkdir(parents=True, exist_ok=True)
-    cert = CERT_DIR / "cert.pem"
-    key = CERT_DIR / "key.pem"
-    if cert.is_file() and key.is_file():
-        return cert, key
+def hay_cambios_git() -> bool:
+    staged = git("diff", "--cached", "--quiet", check=False).returncode != 0
+    unstaged = git("diff", "--quiet", check=False).returncode != 0
+    untracked = bool(git("ls-files", "--others", "--exclude-standard").stdout.strip())
+    return staged or unstaged or untracked
 
-    conf = CERT_DIR / "openssl.cnf"
-    conf.write_text(
-        f"""[req]
-distinguished_name = req_distinguished_name
-x509_extensions = v3_req
-prompt = no
 
-[req_distinguished_name]
-CN = Gurús del Humo Local
+def publicar_github(mensaje: str) -> int:
+    """git add -A → commit (si hay cambios) → push origin HEAD."""
+    if not (DIR / ".git").is_dir():
+        print("ERROR: esta carpeta no es un repo git.", file=sys.stderr)
+        return 1
 
-[v3_req]
-keyUsage = digitalSignature, keyEncipherment
-extendedKeyUsage = serverAuth
-subjectAltName = @alt_names
+    try:
+        remoto_origin()
+    except RuntimeError as e:
+        print(f"ERROR: {e}", file=sys.stderr)
+        return 1
 
-[alt_names]
-DNS.1 = localhost
-IP.1 = 127.0.0.1
-IP.2 = {ip}
-""",
-        encoding="utf-8",
-    )
-    subprocess.check_call(
-        [
-            "openssl",
-            "req",
-            "-x509",
-            "-newkey",
-            "rsa:2048",
-            "-sha256",
-            "-days",
-            "825",
-            "-nodes",
-            "-keyout",
-            str(key),
-            "-out",
-            str(cert),
-            "-config",
-            str(conf),
-            "-extensions",
-            "v3_req",
-        ],
-        stdout=subprocess.DEVNULL,
-        stderr=subprocess.DEVNULL,
-    )
-    return cert, key
+    print()
+    print("Publicando en GitHub…")
+    git("add", "-A")
+
+    if not hay_cambios_git():
+        # Puede haber commit local sin push
+        ahead = git(
+            "rev-list", "--count", "@{u}..HEAD", check=False
+        ).stdout.strip()
+        if ahead and ahead != "0":
+            print(f"Sin cambios nuevos; hay {ahead} commit(s) por subir.")
+        else:
+            print("Sin cambios que subir (ya está al día).")
+            return 0
+    else:
+        try:
+            git("commit", "-m", mensaje)
+            print(f"Commit: {mensaje}")
+        except subprocess.CalledProcessError as e:
+            err = (e.stderr or e.stdout or "").strip()
+            print(f"ERROR al hacer commit:\n{err}", file=sys.stderr)
+            return 1
+
+    branch = git("branch", "--show-current").stdout.strip() or "main"
+    print(f"Push → origin/{branch} …")
+    try:
+        # HEAD: publica la rama actual (suele ser main)
+        proc = subprocess.run(
+            ["git", "push", "-u", "origin", "HEAD"],
+            cwd=DIR,
+            text=True,
+            capture_output=True,
+            check=True,
+        )
+        if proc.stdout.strip():
+            print(proc.stdout.strip())
+        if proc.stderr.strip():
+            print(proc.stderr.strip())
+    except subprocess.CalledProcessError as e:
+        err = (e.stderr or e.stdout or "").strip()
+        print(f"ERROR en git push:\n{err}", file=sys.stderr)
+        print(
+            "\nSi pide login: gh auth login   o   usa un Personal Access Token.",
+            file=sys.stderr,
+        )
+        return 1
+
+    print("Push OK.")
+    return 0
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Genera RSS y sirve Gurús del Humo para Apple Podcasts"
-    )
-    parser.add_argument("--port", type=int, default=8080)
-    parser.add_argument("--host", default="0.0.0.0")
-    parser.add_argument(
-        "--https",
-        action="store_true",
-        help="Sirve con HTTPS auto-firmado (a veces ayuda en iPhone)",
+        description="Genera RSS y publica Gurús del Humo en GitHub Pages"
     )
     parser.add_argument(
         "--solo-rss",
         action="store_true",
-        help="Solo genera feed.xml (no arranca el servidor)",
+        help="Solo genera feed.xml (no hace commit ni push)",
     )
     parser.add_argument(
         "--base-url",
-        help="URL base para --solo-rss (ej. http://192.168.1.20:8080)",
+        help="URL base de Pages (por defecto: se deduce del remote origin)",
+    )
+    parser.add_argument(
+        "--mensaje",
+        "-m",
+        default="Actualizar podcast en GitHub Pages",
+        help="Mensaje del commit",
     )
     parser.add_argument("--show", default=SHOW_NAME)
     parser.add_argument("--artist", default=ARTIST)
@@ -419,21 +418,16 @@ def main() -> int:
     parser.add_argument("--cover", type=Path, default=DEFAULT_COVER)
     args = parser.parse_args()
 
-    if args.solo_rss:
-        if not args.base_url:
-            print("ERROR: --solo-rss requiere --base-url", file=sys.stderr)
+    if args.base_url:
+        base_url = args.base_url.rstrip("/")
+    else:
+        try:
+            base_url = pages_base_url_desde_remote()
+        except RuntimeError as e:
+            print(f"ERROR: {e}", file=sys.stderr)
             return 1
-        return escribir_rss(
-            args.base_url,
-            show=args.show,
-            artist=args.artist,
-            description=args.description,
-            cover=args.cover,
-        )
 
-    ip = local_ip()
-    scheme = "https" if args.https else "http"
-    base_url = f"{scheme}://{ip}:{args.port}"
+    print(f"Base URL: {base_url}")
     code = escribir_rss(
         base_url,
         show=args.show,
@@ -445,47 +439,27 @@ def main() -> int:
         return code
 
     feed_url = f"{base_url}/{FEED_PATH.name}"
-    feed_mac = f"{scheme}://127.0.0.1:{args.port}/{FEED_PATH.name}"
-    handler = partial(PodcastHandler, directory=str(DIR))
-    ThreadingHTTPServer.allow_reuse_address = True
-    server = ThreadingHTTPServer((args.host, args.port), handler)
 
-    if args.https:
-        import ssl
+    if args.solo_rss:
+        print()
+        print("Modo --solo-rss: no se publicó en GitHub.")
+        return 0
 
-        cert, key = asegurar_certificado(ip)
-        ctx = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
-        ctx.load_cert_chain(certfile=str(cert), keyfile=str(key))
-        server.socket = ctx.wrap_socket(server.socket, server_side=True)
+    code = publicar_github(args.mensaje)
+    if code != 0:
+        return code
 
     print()
     print("=" * 60)
-    print("  PODCAST LISTO PARA APPLE PODCASTS")
+    print("  PUBLICADO EN GITHUB PAGES")
     print("=" * 60)
     print()
-    print("  Un feed.xml · temas en bloques por fecha (01 arriba).")
-    print()
-    print("  >>> En Podcasts de ESTE Mac, pega ESTA URL:")
-    print()
-    print(f"     {feed_mac}")
-    print()
-    print("  (No uses la IP 192.168… en el Mac: Podcasts la bloquea.)")
-    print()
-    print("  En el iPhone (misma Wi‑Fi):")
+    print("  En 1–2 min el feed queda vivo. En Podcasts pega:")
     print()
     print(f"     {feed_url}")
     print()
-    print("  Deja esta ventana abierta mientras escuchas.")
-    print("  Ctrl+C para detener el servidor.")
     print("=" * 60)
-    print()
-
-    try:
-        sys.stdout.flush()
-        server.serve_forever()
-    except KeyboardInterrupt:
-        print("\nServidor detenido.")
-        return 0
+    return 0
 
 
 if __name__ == "__main__":
