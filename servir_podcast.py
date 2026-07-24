@@ -26,6 +26,7 @@ import re
 import socket
 import subprocess
 import sys
+import unicodedata
 from datetime import datetime, timedelta, timezone
 from functools import partial
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
@@ -73,8 +74,12 @@ def esc(text: str) -> str:
 
 
 def url_join(base: str, *parts: str) -> str:
-    """Une base + segmentos de ruta (cada uno URL-encoded)."""
-    segs = [quote(p) for p in parts if p]
+    """Une base + segmentos de ruta (cada uno URL-encoded).
+
+    Normaliza a NFC: macOS guarda NFD (ó = o + ́) y GitHub Pages sirve NFC;
+    sin esto, Apple Podcasts ve 404 en los enclosures y falla en silencio.
+    """
+    segs = [quote(unicodedata.normalize("NFC", p)) for p in parts if p]
     return f"{base.rstrip('/')}/{'/'.join(segs)}"
 
 
