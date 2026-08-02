@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- actualizado domingo 2 ago 2026 4:16 pm -->
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gurús del Humo - INTEGRADO</title>
+    <link>https://pinachoperez.github.io/gd-h7k2m9qx4p</link>
+    <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+    <language>es-MX</language>
+    <copyright>© Liverpool México</copyright>
+    <lastBuildDate>Sun, 02 Aug 2026 22:16:17 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 22:16:17 +0000</pubDate>
+    <atom:link href="https://pinachoperez.github.io/gd-h7k2m9qx4p/integra.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Liverpool México</itunes:author>
+    <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Liverpool México</itunes:name>
+      <itunes:email>podcast@liverpool.com.mx</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/cover.jpg"/>
+    <image>
+      <url>https://pinachoperez.github.io/gd-h7k2m9qx4p/cover.jpg</url>
+      <title>Gurús del Humo - INTEGRADO</title>
+      <link>https://pinachoperez.github.io/gd-h7k2m9qx4p</link>
+    </image>
+    <item>
+      <title>M11·0 · Estrategia Unificada SEO-SEM en Retail Omnicanal: Eliminación de Canibalización, Modelos de Atribución y Maximización del Blended ROAS</title>
+      <itunes:title>M11·0 · Estrategia Unificada SEO-SEM en Retail Omnicanal: Eliminación de Canibalización, Modelos de Atribución y Maximización del Blended ROAS</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/00%20-%20Estrategia%20Unificada%20SEO-SEM%20en%20Retail%20Omnicanal%20-%20Eliminaci%C3%B3n%20de%20Canibalizaci%C3%B3n%2C%20Modelos%20de%20Atribuci%C3%B3n%20y%20Maximizaci%C3%B3n%20del%20Blended%20ROAS.m4a" length="9311025" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-estrategia-unificada-seo-sem-en-retail-omnicanal---eliminacin-de-canibalizacin-modelos-de-atribucin-y-maximizacin-del-blended-roas</guid>
+      <pubDate>Sun, 02 Aug 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>16:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·B1 · Diagnóstico de Canibalización y Evaluación de Branded Words</title>
+      <itunes:title>M11·B1 · Diagnóstico de Canibalización y Evaluación de Branded Words</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/01%20-%20Bloque%201%20-%20Diagn%C3%B3stico%20de%20Canibalizaci%C3%B3n%20y%20Evaluaci%C3%B3n%20de%20Branded%20Words.m4a" length="16133972" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-bloque-1---diagnstico-de-canibalizacin-y-evaluacin-de-branded-words</guid>
+      <pubDate>Sat, 01 Aug 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>29:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T1 · Métodos cuantitativos para auditar el solapamiento de tráfico entre SEO y SEM en marcas insignia como Liverpool y Suburbia</title>
+      <itunes:title>M11·T1 · Métodos cuantitativos para auditar el solapamiento de tráfico entre SEO y SEM en marcas insignia como Liverpool y Suburbia</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/01%20-%20Tema%201%20-%20M%C3%A9todos%20cuantitativos%20para%20auditar%20el%20solapamiento%20de%20tr%C3%A1fico%20entre%20SEO%20y%20SEM%20en%20marcas%20insignia%20como%20Liverpool%20y%20Suburbia.m4a" length="16501750" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-1---mtodos-cuantitativos-para-auditar-el-solapamiento-de-trfico-entre-seo-y-sem-en-marcas-insignia-como-liverpool-y-suburbia</guid>
+      <pubDate>Fri, 31 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>29:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T2 · Evaluación del impacto real de la pauta en Branded Words: ¿Protección de marca o gasto redundante?</title>
+      <itunes:title>M11·T2 · Evaluación del impacto real de la pauta en Branded Words: ¿Protección de marca o gasto redundante?</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/02%20-%20Tema%202%20-%20Evaluaci%C3%B3n%20del%20impacto%20real%20de%20la%20pauta%20en%20Branded%20Words%20-%20%C2%BFProtecci%C3%B3n%20de%20marca%20o%20gasto%20redundante-.m4a" length="16411230" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-2---evaluacin-del-impacto-real-de-la-pauta-en-branded-words---proteccin-de-marca-o-gasto-redundante</guid>
+      <pubDate>Thu, 30 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>29:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T3 · Metodología para identificar keywords con posicionamiento orgánico #1 y su comportamiento al pausar campañas de Paid Search</title>
+      <itunes:title>M11·T3 · Metodología para identificar keywords con posicionamiento orgánico #1 y su comportamiento al pausar campañas de Paid Search</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/03%20-%20Tema%203%20-%20Metodolog%C3%ADa%20para%20identificar%20keywords%20con%20posicionamiento%20org%C3%A1nico%20%231%20y%20su%20comportamiento%20al%20pausar%20campa%C3%B1as%20de%20Paid%20Search.m4a" length="11206659" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-3---metodologa-para-identificar-keywords-con-posicionamiento-orgnico-1-y-su-comportamiento-al-pausar-campaas-de-paid-search</guid>
+      <pubDate>Wed, 29 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>19:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T4 · Análisis del costo de oportunidad y desperdicio presupuestal en términos de búsqueda de marca principal</title>
+      <itunes:title>M11·T4 · Análisis del costo de oportunidad y desperdicio presupuestal en términos de búsqueda de marca principal</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/04%20-%20Tema%204%20-%20An%C3%A1lisis%20del%20costo%20de%20oportunidad%20y%20desperdicio%20presupuestal%20en%20t%C3%A9rminos%20de%20b%C3%BAsqueda%20de%20marca%20principal.m4a" length="11883641" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-4---anlisis-del-costo-de-oportunidad-y-desperdicio-presupuestal-en-trminos-de-bsqueda-de-marca-principal</guid>
+      <pubDate>Tue, 28 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>21:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T5 · Diagnóstico de la presencia de competidores en la SERP para determinar cuándo es estrictamente necesario pujar por términos propios</title>
+      <itunes:title>M11·T5 · Diagnóstico de la presencia de competidores en la SERP para determinar cuándo es estrictamente necesario pujar por términos propios</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/05%20-%20Tema%205%20-%20Diagn%C3%B3stico%20de%20la%20presencia%20de%20competidores%20en%20la%20SERP%20para%20determinar%20cu%C3%A1ndo%20es%20estrictamente%20necesario%20pujar%20por%20t%C3%A9rminos%20propios.m4a" length="14795764" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-5---diagnstico-de-la-presencia-de-competidores-en-la-serp-para-determinar-cundo-es-estrictamente-necesario-pujar-por-trminos-propios</guid>
+      <pubDate>Mon, 27 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>26:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T6 · Definición de umbrales de canibalización: Identificación de palabras clave &#x27;parásito&#x27; dentro de la cuenta de Google Ads</title>
+      <itunes:title>M11·T6 · Definición de umbrales de canibalización: Identificación de palabras clave &#x27;parásito&#x27; dentro de la cuenta de Google Ads</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/06%20-%20Tema%206%20-%20Definici%C3%B3n%20de%20umbrales%20de%20canibalizaci%C3%B3n%20-%20Identificaci%C3%B3n%20de%20palabras%20clave%20%27par%C3%A1sito%27%20dentro%20de%20la%20cuenta%20de%20Google%20Ads.m4a" length="15445421" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-6---definicin-de-umbrales-de-canibalizacin---identificacin-de-palabras-clave-parsito-dentro-de-la-cuenta-de-google-ads</guid>
+      <pubDate>Sun, 26 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>27:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·B2 · Arquitectura Analítica, Medición Holística y Atribución</title>
+      <itunes:title>M11·B2 · Arquitectura Analítica, Medición Holística y Atribución</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/07%20-%20Bloque%202%20-%20Arquitectura%20Anal%C3%ADtica%2C%20Medici%C3%B3n%20Hol%C3%ADstica%20y%20Atribuci%C3%B3n.m4a" length="13903278" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-bloque-2---arquitectura-analtica-medicin-holstica-y-atribucin</guid>
+      <pubDate>Sat, 25 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>25:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T7 · Superación de los silos de atribución: Modelos de atribución omnicanal para evitar la doble contabilidad entre SEO y SEM</title>
+      <itunes:title>M11·T7 · Superación de los silos de atribución: Modelos de atribución omnicanal para evitar la doble contabilidad entre SEO y SEM</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/07%20-%20Tema%207%20-%20Superaci%C3%B3n%20de%20los%20silos%20de%20atribuci%C3%B3n%20-%20Modelos%20de%20atribuci%C3%B3n%20omnicanal%20para%20evitar%20la%20doble%20contabilidad%20entre%20SEO%20y%20SEM.m4a" length="11720166" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-7---superacin-de-los-silos-de-atribucin---modelos-de-atribucin-omnicanal-para-evitar-la-doble-contabilidad-entre-seo-y-sem</guid>
+      <pubDate>Fri, 24 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>20:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T8 · Construcción e implementación del Blended ROAS y Marketing Efficiency Ratio (MER) aplicados al canal de Search</title>
+      <itunes:title>M11·T8 · Construcción e implementación del Blended ROAS y Marketing Efficiency Ratio (MER) aplicados al canal de Search</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/08%20-%20Tema%208%20-%20Construcci%C3%B3n%20e%20implementaci%C3%B3n%20del%20Blended%20ROAS%20y%20Marketing%20Efficiency%20Ratio%20%28MER%29%20aplicados%20al%20canal%20de%20Search.m4a" length="10637399" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-8---construccin-e-implementacin-del-blended-roas-y-marketing-efficiency-ratio-mer-aplicados-al-canal-de-search</guid>
+      <pubDate>Thu, 23 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>18:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T9 · Diseño de experimentos de incrementalidad (Incrementality Testing / Geo-testing) para medir el valor neto de SEM sobre SEO</title>
+      <itunes:title>M11·T9 · Diseño de experimentos de incrementalidad (Incrementality Testing / Geo-testing) para medir el valor neto de SEM sobre SEO</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/09%20-%20Tema%209%20-%20Dise%C3%B1o%20de%20experimentos%20de%20incrementalidad%20%28Incrementality%20Testing%20-%20Geo-testing%29%20para%20medir%20el%20valor%20neto%20de%20SEM%20sobre%20SEO.m4a" length="15959176" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-9---diseo-de-experimentos-de-incrementalidad-incrementality-testing---geo-testing-para-medir-el-valor-neto-de-sem-sobre-seo</guid>
+      <pubDate>Wed, 22 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>28:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T10 · Integración de datos entre Google Search Console, Google Ads y BigQuery para análisis de SERP unificado</title>
+      <itunes:title>M11·T10 · Integración de datos entre Google Search Console, Google Ads y BigQuery para análisis de SERP unificado</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/10%20-%20Tema%2010%20-%20Integraci%C3%B3n%20de%20datos%20entre%20Google%20Search%20Console%2C%20Google%20Ads%20y%20BigQuery%20para%20an%C3%A1lisis%20de%20SERP%20unificado.m4a" length="10735586" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-10---integracin-de-datos-entre-google-search-console-google-ads-y-bigquery-para-anlisis-de-serp-unificado</guid>
+      <pubDate>Tue, 21 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>18:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T11 · Definición del Marco de KPIs Integrado: CAC combinado, Incrementalidad de Ingresos y Ahorro Neto de Inversión</title>
+      <itunes:title>M11·T11 · Definición del Marco de KPIs Integrado: CAC combinado, Incrementalidad de Ingresos y Ahorro Neto de Inversión</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/11%20-%20Tema%2011%20-%20Definici%C3%B3n%20del%20Marco%20de%20KPIs%20Integrado%20-%20CAC%20combinado%2C%20Incrementalidad%20de%20Ingresos%20y%20Ahorro%20Neto%20de%20Inversi%C3%B3n.m4a" length="16853696" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-11---definicin-del-marco-de-kpis-integrado---cac-combinado-incrementalidad-de-ingresos-y-ahorro-neto-de-inversin</guid>
+      <pubDate>Mon, 20 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>30:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T12 · Creación de Dashboards unificados de Search para la alineación en tiempo real entre agencias y equipos internos</title>
+      <itunes:title>M11·T12 · Creación de Dashboards unificados de Search para la alineación en tiempo real entre agencias y equipos internos</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/12%20-%20Tema%2012%20-%20Creaci%C3%B3n%20de%20Dashboards%20unificados%20de%20Search%20para%20la%20alineaci%C3%B3n%20en%20tiempo%20real%20entre%20agencias%20y%20equipos%20internos.m4a" length="17493781" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-12---creacin-de-dashboards-unificados-de-search-para-la-alineacin-en-tiempo-real-entre-agencias-y-equipos-internos</guid>
+      <pubDate>Sun, 19 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>31:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·B3 · Estrategia Táctica y Reglas de Convivencia SEO-SEM</title>
+      <itunes:title>M11·B3 · Estrategia Táctica y Reglas de Convivencia SEO-SEM</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/13%20-%20Bloque%203%20-%20Estrategia%20T%C3%A1ctica%20y%20Reglas%20de%20Convivencia%20SEO-SEM.m4a" length="16735042" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-bloque-3---estrategia-tctica-y-reglas-de-convivencia-seo-sem</guid>
+      <pubDate>Sat, 18 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>30:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T13 · Protocolos de cooperación operacional entre el equipo de Performance Marketing y el equipo de SEO técnico</title>
+      <itunes:title>M11·T13 · Protocolos de cooperación operacional entre el equipo de Performance Marketing y el equipo de SEO técnico</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/13%20-%20Tema%2013%20-%20Protocolos%20de%20cooperaci%C3%B3n%20operacional%20entre%20el%20equipo%20de%20Performance%20Marketing%20y%20el%20equipo%20de%20SEO%20t%C3%A9cnico.m4a" length="12596469" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-13---protocolos-de-cooperacin-operacional-entre-el-equipo-de-performance-marketing-y-el-equipo-de-seo-tcnico</guid>
+      <pubDate>Fri, 17 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>22:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T14 · Reglas de puja automatizadas (Smart Bidding) condicionadas por la visibilidad y ranking del resultado orgánico</title>
+      <itunes:title>M11·T14 · Reglas de puja automatizadas (Smart Bidding) condicionadas por la visibilidad y ranking del resultado orgánico</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/14%20-%20Tema%2014%20-%20Reglas%20de%20puja%20automatizadas%20%28Smart%20Bidding%29%20condicionadas%20por%20la%20visibilidad%20y%20ranking%20del%20resultado%20org%C3%A1nico.m4a" length="10431252" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-14---reglas-de-puja-automatizadas-smart-bidding-condicionadas-por-la-visibilidad-y-ranking-del-resultado-orgnico</guid>
+      <pubDate>Thu, 16 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>18:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T15 · Matriz de decisión de palabras clave: Categorización de términos en &#x27;Solo SEO&#x27;, &#x27;Solo SEM&#x27;, &#x27;Híbrido&#x27; y &#x27;Defensivo&#x27;</title>
+      <itunes:title>M11·T15 · Matriz de decisión de palabras clave: Categorización de términos en &#x27;Solo SEO&#x27;, &#x27;Solo SEM&#x27;, &#x27;Híbrido&#x27; y &#x27;Defensivo&#x27;</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/15%20-%20Tema%2015%20-%20Matriz%20de%20decisi%C3%B3n%20de%20palabras%20clave%20-%20Categorizaci%C3%B3n%20de%20t%C3%A9rminos%20en%20%27Solo%20SEO%27%2C%20%27Solo%20SEM%27%2C%20%27H%C3%ADbrido%27%20y%20%27Defensivo%27.m4a" length="7789119" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-15---matriz-de-decisin-de-palabras-clave---categorizacin-de-trminos-en-solo-seo-solo-sem-hbrido-y-defensivo</guid>
+      <pubDate>Wed, 15 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>13:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>15</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+    <item>
+      <title>M11·T16 · Estrategias de retención de SERP dominando los resultados orgánicos, de pago, de shopping y paneles de conocimiento simultáneamente</title>
+      <itunes:title>M11·T16 · Estrategias de retención de SERP dominando los resultados orgánicos, de pago, de shopping y paneles de conocimiento simultáneamente</itunes:title>
+      <description>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>Gurús del Humo - INTEGRADO. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/16%20-%20Tema%2016%20-%20Estrategias%20de%20retenci%C3%B3n%20de%20SERP%20dominando%20los%20resultados%20org%C3%A1nicos%2C%20de%20pago%2C%20de%20shopping%20y%20paneles%20de%20conocimiento%20simult%C3%A1neamente.m4a" length="17003524" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-seo-y-sem-integrados-tema-16---estrategias-de-retencin-de-serp-dominando-los-resultados-orgnicos-de-pago-de-shopping-y-paneles-de-conocimiento-simultneamente</guid>
+      <pubDate>Tue, 14 Jul 2026 22:16:17 +0000</pubDate>
+      <itunes:duration>30:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/11%20-%20F16%20M2%20I1%20-%20SEO%20y%20SEM%20Integrados/cover.jpg"/>
+      <itunes:keywords>SEO y SEM Integrados</itunes:keywords>
+    </item>
+  </channel>
+</rss>
