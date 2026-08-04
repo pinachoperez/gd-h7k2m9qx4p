@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- actualizado martes 4 ago 2026 4:23 am -->
+<!-- actualizado martes 4 ago 2026 4:51 am -->
 <rss version="2.0"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NEG GEO - Gurús del Humo</title>
+    <title>GEO - Gurús del Humo</title>
     <link>https://pinachoperez.github.io/gd-h7k2m9qx4p</link>
-    <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+    <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
     <language>es-MX</language>
     <copyright>© Liverpool México</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 10:23:07 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 10:23:07 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:51:24 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 10:51:24 +0000</pubDate>
     <atom:link href="https://pinachoperez.github.io/gd-h7k2m9qx4p/n3v8td.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Liverpool México</itunes:author>
-    <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+    <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>Liverpool México</itunes:name>
@@ -25,518 +25,331 @@
     <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/cover.jpg"/>
     <image>
       <url>https://pinachoperez.github.io/gd-h7k2m9qx4p/cover.jpg</url>
-      <title>NEG GEO - Gurús del Humo</title>
+      <title>GEO - Gurús del Humo</title>
       <link>https://pinachoperez.github.io/gd-h7k2m9qx4p</link>
     </image>
     <item>
-      <title>M3·0 · Caso de Negocio Ejecutivo y Proyección de Ingresos para AEO/GEO en PDPs Mediante Semrush ONE</title>
-      <itunes:title>M3·0 · Caso de Negocio Ejecutivo y Proyección de Ingresos para AEO/GEO en PDPs Mediante Semrush ONE</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/00%20-%20Caso%20de%20Negocio%20Ejecutivo%20y%20Proyecci%C3%B3n%20de%20Ingresos%20para%20AEO-GEO%20en%20PDPs%20Mediante%20Semrush%20ONE.m4a" length="8684999" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-caso-de-negocio-ejecutivo-y-proyeccin-de-ingresos-para-aeo-geo-en-pdps-mediante-semrush-one</guid>
-      <pubDate>Tue, 04 Aug 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>15:10</itunes:duration>
+      <title>M5·0 · Estrategia Avanzada de Citación en PDP/PLP, Dominio de Share of Voice y Mitigación de Brand Sentiment para Retail Digital</title>
+      <itunes:title>M5·0 · Estrategia Avanzada de Citación en PDP/PLP, Dominio de Share of Voice y Mitigación de Brand Sentiment para Retail Digital</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/00%20-%20Estrategia%20Avanzada%20de%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Dominio%20de%20Share%20of%20Voice%20y%20Mitigaci%C3%B3n%20de%20Brand%20Sentiment%20para%20Retail%20Digital.m4a" length="15438382" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-estrategia-avanzada-de-citacin-en-pdp-plp-dominio-de-share-of-voice-y-mitigacin-de-brand-sentiment-para-retail-digital</guid>
+      <pubDate>Tue, 04 Aug 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>27:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·B1 · El Valor Comercial del Tráfico Generativo en PDPs</title>
-      <itunes:title>M3·B1 · El Valor Comercial del Tráfico Generativo en PDPs</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/01%20-%20Bloque%201%20-%20El%20Valor%20Comercial%20del%20Tr%C3%A1fico%20Generativo%20en%20PDPs.m4a" length="10787356" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-bloque-1---el-valor-comercial-del-trfico-generativo-en-pdps</guid>
-      <pubDate>Mon, 03 Aug 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>19:10</itunes:duration>
+      <title>M5·B1 · Arquitectura Técnica y Citación de PDP/PLP en Motores Tradicionales e IA</title>
+      <itunes:title>M5·B1 · Arquitectura Técnica y Citación de PDP/PLP en Motores Tradicionales e IA</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/01%20-%20Bloque%201%20-%20Arquitectura%20T%C3%A9cnica%20y%20Citaci%C3%B3n%20de%20PDP-PLP%20en%20Motores%20Tradicionales%20e%20IA.m4a" length="16206231" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-bloque-1---arquitectura-tcnica-y-citacin-de-pdp-plp-en-motores-tradicionales-e-ia</guid>
+      <pubDate>Mon, 03 Aug 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>29:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·T1 · La migración del Consumer Journey desde la búsqueda tradicional hacia motores de respuesta (AEO) y su impacto en las PDPs</title>
-      <itunes:title>M3·T1 · La migración del Consumer Journey desde la búsqueda tradicional hacia motores de respuesta (AEO) y su impacto en las PDPs</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/01%20-%20Tema%201%20-%20La%20migraci%C3%B3n%20del%20Consumer%20Journey%20desde%20la%20b%C3%BAsqueda%20tradicional%20hacia%20motores%20de%20respuesta%20%28AEO%29%20y%20su%20impacto%20en%20las%20PDPs.m4a" length="12842530" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-1---la-migracin-del-consumer-journey-desde-la-bsqueda-tradicional-hacia-motores-de-respuesta-aeo-y-su-impacto-en-las-pdps</guid>
-      <pubDate>Sun, 02 Aug 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>23:08</itunes:duration>
+      <title>M5·T1 · Arquitectura de datos estructurados avanzados (Schema.org Product, Offer, AggregateRating, MerchantReturnPolicy) para maximizar la citación en Google y AI Overviews</title>
+      <itunes:title>M5·T1 · Arquitectura de datos estructurados avanzados (Schema.org Product, Offer, AggregateRating, MerchantReturnPolicy) para maximizar la citación en Google y AI Overviews</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/01%20-%20Tema%201%20-%20Arquitectura%20de%20datos%20estructurados%20avanzados%20%28Schema.org%20Product%2C%20Offer%2C%20AggregateRating%2C%20MerchantReturnPolicy%29%20para%20maximizar%20la%20citaci%C3%B3n%20en%20Google%20y%20AI%20Overviews.m4a" length="9973860" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-tema-1---arquitectura-de-datos-estructurados-avanzados-schemaorg-product-offer-aggregaterating-merchantreturnpolicy-para-maximizar-la-citacin-en-google-y-ai-overviews</guid>
+      <pubDate>Sun, 02 Aug 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>17:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·T2 · Cuantificación del tráfico invisible: Cómo los LLMs influyen en la decisión de compra antes del clic hacia la ficha de producto</title>
-      <itunes:title>M3·T2 · Cuantificación del tráfico invisible: Cómo los LLMs influyen en la decisión de compra antes del clic hacia la ficha de producto</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/02%20-%20Tema%202%20-%20Cuantificaci%C3%B3n%20del%20tr%C3%A1fico%20invisible%20-%20C%C3%B3mo%20los%20LLMs%20influyen%20en%20la%20decisi%C3%B3n%20de%20compra%20antes%20del%20clic%20hacia%20la%20ficha%20de%20producto.m4a" length="17157738" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-2---cuantificacin-del-trfico-invisible---cmo-los-llms-influyen-en-la-decisin-de-compra-antes-del-clic-hacia-la-ficha-de-producto</guid>
-      <pubDate>Sat, 01 Aug 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>31:03</itunes:duration>
+      <title>M5·T2 · Estrategia de Generative Engine Optimization (GEO) en PDPs: Estructuración de microcopy e información semántica para citación en Perplexity, Gemini y SearchGPT</title>
+      <itunes:title>M5·T2 · Estrategia de Generative Engine Optimization (GEO) en PDPs: Estructuración de microcopy e información semántica para citación en Perplexity, Gemini y SearchGPT</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/02%20-%20Tema%202%20-%20Estrategia%20de%20Generative%20Engine%20Optimization%20%28GEO%29%20en%20PDPs%20-%20Estructuraci%C3%B3n%20de%20microcopy%20e%20informaci%C3%B3n%20sem%C3%A1ntica%20para%20citaci%C3%B3n%20en%20Perplexity%2C%20Gemini%20y%20SearchGPT.m4a" length="7684957" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-tema-2---estrategia-de-generative-engine-optimization-geo-en-pdps---estructuracin-de-microcopy-e-informacin-semntica-para-citacin-en-perplexity-gemini-y-searchgpt</guid>
+      <pubDate>Sat, 01 Aug 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>13:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·T3 · Modelos de atribución para ventas directas e influenciadas por motores de IA en entornos E-commerce</title>
-      <itunes:title>M3·T3 · Modelos de atribución para ventas directas e influenciadas por motores de IA en entornos E-commerce</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/03%20-%20Tema%203%20-%20Modelos%20de%20atribuci%C3%B3n%20para%20ventas%20directas%20e%20influenciadas%20por%20motores%20de%20IA%20en%20entornos%20E-commerce.m4a" length="12755751" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-3---modelos-de-atribucin-para-ventas-directas-e-influenciadas-por-motores-de-ia-en-entornos-e-commerce</guid>
-      <pubDate>Fri, 31 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>22:49</itunes:duration>
+      <title>M5·T3 · Optimización de PLPs como entidades de autoridad transaccional: Faceted navigation, canonicalización y mitigación de canibalización en catálogos masivos</title>
+      <itunes:title>M5·T3 · Optimización de PLPs como entidades de autoridad transaccional: Faceted navigation, canonicalización y mitigación de canibalización en catálogos masivos</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/03%20-%20Tema%203%20-%20Optimizaci%C3%B3n%20de%20PLPs%20como%20entidades%20de%20autoridad%20transaccional%20-%20Faceted%20navigation%2C%20canonicalizaci%C3%B3n%20y%20mitigaci%C3%B3n%20de%20canibalizaci%C3%B3n%20en%20cat%C3%A1logos%20masivos.m4a" length="15399656" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-tema-3---optimizacin-de-plps-como-entidades-de-autoridad-transaccional---faceted-navigation-canonicalizacin-y-mitigacin-de-canibalizacin-en-catlogos-masivos</guid>
+      <pubDate>Fri, 31 Jul 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>27:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·T4 · Benchmarking de tasa de conversión: Comparativa entre tráfico orgánico tradicional vs. tráfico calificado desde motores generativos</title>
-      <itunes:title>M3·T4 · Benchmarking de tasa de conversión: Comparativa entre tráfico orgánico tradicional vs. tráfico calificado desde motores generativos</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/04%20-%20Tema%204%20-%20Benchmarking%20de%20tasa%20de%20conversi%C3%B3n%20-%20Comparativa%20entre%20tr%C3%A1fico%20org%C3%A1nico%20tradicional%20vs.%20tr%C3%A1fico%20calificado%20desde%20motores%20generativos.m4a" length="11236006" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-4---benchmarking-de-tasa-de-conversin---comparativa-entre-trfico-orgnico-tradicional-vs-trfico-calificado-desde-motores-generativos</guid>
-      <pubDate>Thu, 30 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>20:01</itunes:duration>
+      <title>M5·T4 · Inserción de módulos de prueba social (Social Proof) y UGC controlado en PDP/PLP para contrarrestar la fricción de conversión por reputación externa</title>
+      <itunes:title>M5·T4 · Inserción de módulos de prueba social (Social Proof) y UGC controlado en PDP/PLP para contrarrestar la fricción de conversión por reputación externa</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/04%20-%20Tema%204%20-%20Inserci%C3%B3n%20de%20m%C3%B3dulos%20de%20prueba%20social%20%28Social%20Proof%29%20y%20UGC%20controlado%20en%20PDP-PLP%20para%20contrarrestar%20la%20fricci%C3%B3n%20de%20conversi%C3%B3n%20por%20reputaci%C3%B3n%20externa.m4a" length="11536287" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-tema-4---insercin-de-mdulos-de-prueba-social-social-proof-y-ugc-controlado-en-pdp-plp-para-contrarrestar-la-friccin-de-conversin-por-reputacin-externa</guid>
+      <pubDate>Thu, 30 Jul 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>20:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·T5 · Diagnóstico de la madurez SEO actual de las PDPs y brecha estratégica frente al nuevo ecosistema AEO/GEO</title>
-      <itunes:title>M3·T5 · Diagnóstico de la madurez SEO actual de las PDPs y brecha estratégica frente al nuevo ecosistema AEO/GEO</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/05%20-%20Tema%205%20-%20Diagn%C3%B3stico%20de%20la%20madurez%20SEO%20actual%20de%20las%20PDPs%20y%20brecha%20estrat%C3%A9gica%20frente%20al%20nuevo%20ecosistema%20AEO-GEO.m4a" length="12773009" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-5---diagnstico-de-la-madurez-seo-actual-de-las-pdps-y-brecha-estratgica-frente-al-nuevo-ecosistema-aeo-geo</guid>
-      <pubDate>Wed, 29 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>22:47</itunes:duration>
+      <title>M5·T5 · Estrategias de visibilidad en Google Merchant Center y feeds de datos dinámicos para captura de fragmentos enriquecidos (Rich Snippets)</title>
+      <itunes:title>M5·T5 · Estrategias de visibilidad en Google Merchant Center y feeds de datos dinámicos para captura de fragmentos enriquecidos (Rich Snippets)</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/05%20-%20Tema%205%20-%20Estrategias%20de%20visibilidad%20en%20Google%20Merchant%20Center%20y%20feeds%20de%20datos%20din%C3%A1micos%20para%20captura%20de%20fragmentos%20enriquecidos%20%28Rich%20Snippets%29.m4a" length="15360686" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-tema-5---estrategias-de-visibilidad-en-google-merchant-center-y-feeds-de-datos-dinmicos-para-captura-de-fragmentos-enriquecidos-rich-snippets</guid>
+      <pubDate>Wed, 29 Jul 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>27:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·T6 · El costo de la inacción: Estimación de pérdida de cuota de mercado al no posicionar PDPs en las respuestas de IA</title>
-      <itunes:title>M3·T6 · El costo de la inacción: Estimación de pérdida de cuota de mercado al no posicionar PDPs en las respuestas de IA</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/06%20-%20Tema%206%20-%20El%20costo%20de%20la%20inacci%C3%B3n%20-%20Estimaci%C3%B3n%20de%20p%C3%A9rdida%20de%20cuota%20de%20mercado%20al%20no%20posicionar%20PDPs%20en%20las%20respuestas%20de%20IA.m4a" length="16502209" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-6---el-costo-de-la-inaccin---estimacin-de-prdida-de-cuota-de-mercado-al-no-posicionar-pdps-en-las-respuestas-de-ia</guid>
-      <pubDate>Tue, 28 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>29:54</itunes:duration>
+      <title>M5·T6 · Auditoría de citación digital: KPIs técnicos para medir la presencia de PDPs y PLPs en motores de búsqueda tradicionales vs. motores de respuesta sintéticos</title>
+      <itunes:title>M5·T6 · Auditoría de citación digital: KPIs técnicos para medir la presencia de PDPs y PLPs en motores de búsqueda tradicionales vs. motores de respuesta sintéticos</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/06%20-%20Tema%206%20-%20Auditor%C3%ADa%20de%20citaci%C3%B3n%20digital%20-%20KPIs%20t%C3%A9cnicos%20para%20medir%20la%20presencia%20de%20PDPs%20y%20PLPs%20en%20motores%20de%20b%C3%BAsqueda%20tradicionales%20vs.%20motores%20de%20respuesta%20sint%C3%A9ticos.m4a" length="16056589" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-tema-6---auditora-de-citacin-digital---kpis-tcnicos-para-medir-la-presencia-de-pdps-y-plps-en-motores-de-bsqueda-tradicionales-vs-motores-de-respuesta-sintticos</guid>
+      <pubDate>Tue, 28 Jul 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>29:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·B2 · Casos de Negocio Financiero y Retorno de Inversión</title>
-      <itunes:title>M3·B2 · Casos de Negocio Financiero y Retorno de Inversión</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/07%20-%20Bloque%202%20-%20Casos%20de%20Negocio%20Financiero%20y%20Retorno%20de%20Inversi%C3%B3n.m4a" length="14478892" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-bloque-2---casos-de-negocio-financiero-y-retorno-de-inversin</guid>
-      <pubDate>Mon, 27 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>26:03</itunes:duration>
+      <title>M5·B2 · Definición del Framework de Share of Voice (SoV) y KPIs Accionables</title>
+      <itunes:title>M5·B2 · Definición del Framework de Share of Voice (SoV) y KPIs Accionables</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/07%20-%20Bloque%202%20-%20Definici%C3%B3n%20del%20Framework%20de%20Share%20of%20Voice%20%28SoV%29%20y%20KPIs%20Accionables.m4a" length="16234284" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-bloque-2---definicin-del-framework-de-share-of-voice-sov-y-kpis-accionables</guid>
+      <pubDate>Mon, 27 Jul 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>29:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·T7 · Estructuración del Business Case de AEO/GEO para el C-Suite (CEO, CFO, CMO)</title>
-      <itunes:title>M3·T7 · Estructuración del Business Case de AEO/GEO para el C-Suite (CEO, CFO, CMO)</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/07%20-%20Tema%207%20-%20Estructuraci%C3%B3n%20del%20Business%20Case%20de%20AEO-GEO%20para%20el%20C-Suite%20%28CEO%2C%20CFO%2C%20CMO%29.m4a" length="14760127" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-7---estructuracin-del-business-case-de-aeo-geo-para-el-c-suite-ceo-cfo-cmo</guid>
-      <pubDate>Sun, 26 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>26:31</itunes:duration>
+      <title>M5·T7 · Definición de la matriz de KPIs de SoV para Retail: Share of Search, Organic Market Share y SoV sintético en motores de IA</title>
+      <itunes:title>M5·T7 · Definición de la matriz de KPIs de SoV para Retail: Share of Search, Organic Market Share y SoV sintético en motores de IA</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/07%20-%20Tema%207%20-%20Definici%C3%B3n%20de%20la%20matriz%20de%20KPIs%20de%20SoV%20para%20Retail%20-%20Share%20of%20Search%2C%20Organic%20Market%20Share%20y%20SoV%20sint%C3%A9tico%20en%20motores%20de%20IA.m4a" length="15540637" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-tema-7---definicin-de-la-matriz-de-kpis-de-sov-para-retail---share-of-search-organic-market-share-y-sov-sinttico-en-motores-de-ia</guid>
+      <pubDate>Sun, 26 Jul 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>28:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·T8 · Justificación financiera de la suite Semrush ONE: Análisis CPT (Cost Per Traffic) y ROI estimado</title>
-      <itunes:title>M3·T8 · Justificación financiera de la suite Semrush ONE: Análisis CPT (Cost Per Traffic) y ROI estimado</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/08%20-%20Tema%208%20-%20Justificaci%C3%B3n%20financiera%20de%20la%20suite%20Semrush%20ONE%20-%20An%C3%A1lisis%20CPT%20%28Cost%20Per%20Traffic%29%20y%20ROI%20estimado.m4a" length="13777861" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-8---justificacin-financiera-de-la-suite-semrush-one---anlisis-cpt-cost-per-traffic-y-roi-estimado</guid>
-      <pubDate>Sat, 25 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>24:49</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>8</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
-    </item>
-    <item>
-      <title>M3·T9 · Proyección de crecimiento incremental en ventas (GMV) a 12 meses habilitado por inteligencia competitiva de IA</title>
-      <itunes:title>M3·T9 · Proyección de crecimiento incremental en ventas (GMV) a 12 meses habilitado por inteligencia competitiva de IA</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/09%20-%20Tema%209%20-%20Proyecci%C3%B3n%20de%20crecimiento%20incremental%20en%20ventas%20%28GMV%29%20a%2012%20meses%20habilitado%20por%20inteligencia%20competitiva%20de%20IA.m4a" length="10084110" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-9---proyeccin-de-crecimiento-incremental-en-ventas-gmv-a-12-meses-habilitado-por-inteligencia-competitiva-de-ia</guid>
-      <pubDate>Fri, 24 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>17:43</itunes:duration>
+      <title>M5·T9 · Search Listening estratégico: Identificación de intenciones de búsqueda de descubrimiento vs. intenciones de comparación de marca</title>
+      <itunes:title>M5·T9 · Search Listening estratégico: Identificación de intenciones de búsqueda de descubrimiento vs. intenciones de comparación de marca</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/09%20-%20Tema%209%20-%20Search%20Listening%20estrat%C3%A9gico%20-%20Identificaci%C3%B3n%20de%20intenciones%20de%20b%C3%BAsqueda%20de%20descubrimiento%20vs.%20intenciones%20de%20comparaci%C3%B3n%20de%20marca.m4a" length="15733227" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-tema-9---search-listening-estratgico---identificacin-de-intenciones-de-bsqueda-de-descubrimiento-vs-intenciones-de-comparacin-de-marca</guid>
+      <pubDate>Fri, 24 Jul 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>28:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>9</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·T10 · Modelado de escenarios de ingresos: Conservador, moderado y agresivo para la captura de Share of Model Voice (SoMV)</title>
-      <itunes:title>M3·T10 · Modelado de escenarios de ingresos: Conservador, moderado y agresivo para la captura de Share of Model Voice (SoMV)</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/10%20-%20Tema%2010%20-%20Modelado%20de%20escenarios%20de%20ingresos%20-%20Conservador%2C%20moderado%20y%20agresivo%20para%20la%20captura%20de%20Share%20of%20Model%20Voice%20%28SoMV%29.m4a" length="13309547" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-10---modelado-de-escenarios-de-ingresos---conservador-moderado-y-agresivo-para-la-captura-de-share-of-model-voice-somv</guid>
-      <pubDate>Thu, 23 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>23:51</itunes:duration>
+      <title>M5·T10 · Estrategias de expansión de SoV sin incremento publicitario directo: Apalancamiento SEO en categorías Long-Tail</title>
+      <itunes:title>M5·T10 · Estrategias de expansión de SoV sin incremento publicitario directo: Apalancamiento SEO en categorías Long-Tail</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/10%20-%20Tema%2010%20-%20Estrategias%20de%20expansi%C3%B3n%20de%20SoV%20sin%20incremento%20publicitario%20directo%20-%20Apalancamiento%20SEO%20en%20categor%C3%ADas%20Long-Tail.m4a" length="12987135" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-tema-10---estrategias-de-expansin-de-sov-sin-incremento-publicitario-directo---apalancamiento-seo-en-categoras-long-tail</guid>
+      <pubDate>Thu, 23 Jul 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>23:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>10</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·T11 · Optimización del Presupuesto de Marketing: Reasignación de fondos de canales saturados hacia AEO/GEO</title>
-      <itunes:title>M3·T11 · Optimización del Presupuesto de Marketing: Reasignación de fondos de canales saturados hacia AEO/GEO</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/11%20-%20Tema%2011%20-%20Optimizaci%C3%B3n%20del%20Presupuesto%20de%20Marketing%20-%20Reasignaci%C3%B3n%20de%20fondos%20de%20canales%20saturados%20hacia%20AEO-GEO.m4a" length="15296361" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-11---optimizacin-del-presupuesto-de-marketing---reasignacin-de-fondos-de-canales-saturados-hacia-aeo-geo</guid>
-      <pubDate>Wed, 22 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>27:34</itunes:duration>
+      <title>M5·T11 · Construcción de un tablero ejecutivo para SoV que conecte la visibilidad orgánica con el volumen de ventas proyectado</title>
+      <itunes:title>M5·T11 · Construcción de un tablero ejecutivo para SoV que conecte la visibilidad orgánica con el volumen de ventas proyectado</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/11%20-%20Tema%2011%20-%20Construcci%C3%B3n%20de%20un%20tablero%20ejecutivo%20para%20SoV%20que%20conecte%20la%20visibilidad%20org%C3%A1nica%20con%20el%20volumen%20de%20ventas%20proyectado.m4a" length="15073649" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-tema-11---construccin-de-un-tablero-ejecutivo-para-sov-que-conecte-la-visibilidad-orgnica-con-el-volumen-de-ventas-proyectado</guid>
+      <pubDate>Wed, 22 Jul 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>27:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>11</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·T12 · Argumentario y Matriz de Objeciones para el CFO sobre la inversión en medición de motores generativos</title>
-      <itunes:title>M3·T12 · Argumentario y Matriz de Objeciones para el CFO sobre la inversión en medición de motores generativos</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/12%20-%20Tema%2012%20-%20Argumentario%20y%20Matriz%20de%20Objeciones%20para%20el%20CFO%20sobre%20la%20inversi%C3%B3n%20en%20medici%C3%B3n%20de%20motores%20generativos.m4a" length="12664074" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-12---argumentario-y-matriz-de-objeciones-para-el-cfo-sobre-la-inversin-en-medicin-de-motores-generativos</guid>
-      <pubDate>Tue, 21 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>22:40</itunes:duration>
+      <title>M5·T12 · Benchmarking defensivo de SoV: Detección temprana de pérdida de terreno frente a competidores directos y marketplaces</title>
+      <itunes:title>M5·T12 · Benchmarking defensivo de SoV: Detección temprana de pérdida de terreno frente a competidores directos y marketplaces</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/12%20-%20Tema%2012%20-%20Benchmarking%20defensivo%20de%20SoV%20-%20Detecci%C3%B3n%20temprana%20de%20p%C3%A9rdida%20de%20terreno%20frente%20a%20competidores%20directos%20y%20marketplaces.m4a" length="13133801" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-tema-12---benchmarking-defensivo-de-sov---deteccin-temprana-de-prdida-de-terreno-frente-a-competidores-directos-y-marketplaces</guid>
+      <pubDate>Tue, 21 Jul 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>23:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>12</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·B3 · Estrategia Competitiva y Posicionamiento de PDPs con Semrush ONE</title>
-      <itunes:title>M3·B3 · Estrategia Competitiva y Posicionamiento de PDPs con Semrush ONE</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/13%20-%20Bloque%203%20-%20Estrategia%20Competitiva%20y%20Posicionamiento%20de%20PDPs%20con%20Semrush%20ONE.m4a" length="9476205" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-bloque-3---estrategia-competitiva-y-posicionamiento-de-pdps-con-semrush-one</guid>
-      <pubDate>Mon, 20 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>16:38</itunes:duration>
+      <title>M5·B3 · Gestión Indirecta de Brand Sentiment y Mitigación de Reputación Externa</title>
+      <itunes:title>M5·B3 · Gestión Indirecta de Brand Sentiment y Mitigación de Reputación Externa</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/13%20-%20Bloque%203%20-%20Gesti%C3%B3n%20Indirecta%20de%20Brand%20Sentiment%20y%20Mitigaci%C3%B3n%20de%20Reputaci%C3%B3n%20Externa.m4a" length="10552793" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-bloque-3---gestin-indirecta-de-brand-sentiment-y-mitigacin-de-reputacin-externa</guid>
+      <pubDate>Mon, 20 Jul 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>18:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>13</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·T13 · Auditoría de visibilidad de PDPs en ChatGPT, Gemini, Perplexity y Copilots usando Semrush ONE</title>
-      <itunes:title>M3·T13 · Auditoría de visibilidad de PDPs en ChatGPT, Gemini, Perplexity y Copilots usando Semrush ONE</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/13%20-%20Tema%2013%20-%20Auditor%C3%ADa%20de%20visibilidad%20de%20PDPs%20en%20ChatGPT%2C%20Gemini%2C%20Perplexity%20y%20Copilots%20usando%20Semrush%20ONE.m4a" length="14978906" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-13---auditora-de-visibilidad-de-pdps-en-chatgpt-gemini-perplexity-y-copilots-usando-semrush-one</guid>
-      <pubDate>Sun, 19 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>26:57</itunes:duration>
+      <title>M5·T13 · Estrategia de SERP Ownership de marca: Dominar los primeros 10 resultados de búsqueda corporativos con propiedades controladas</title>
+      <itunes:title>M5·T13 · Estrategia de SERP Ownership de marca: Dominar los primeros 10 resultados de búsqueda corporativos con propiedades controladas</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/13%20-%20Tema%2013%20-%20Estrategia%20de%20SERP%20Ownership%20de%20marca%20-%20Dominar%20los%20primeros%2010%20resultados%20de%20b%C3%BAsqueda%20corporativos%20con%20propiedades%20controladas.m4a" length="10715817" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-tema-13---estrategia-de-serp-ownership-de-marca---dominar-los-primeros-10-resultados-de-bsqueda-corporativos-con-propiedades-controladas</guid>
+      <pubDate>Sun, 19 Jul 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>19:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>13</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·T14 · Análsis de brechas de citación competitiva: Identificando por qué los LLMs recomiendan PDPs de la competencia</title>
-      <itunes:title>M3·T14 · Análsis de brechas de citación competitiva: Identificando por qué los LLMs recomiendan PDPs de la competencia</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/14%20-%20Tema%2014%20-%20An%C3%A1lsis%20de%20brechas%20de%20citaci%C3%B3n%20competitiva%20-%20Identificando%20por%20qu%C3%A9%20los%20LLMs%20recomiendan%20PDPs%20de%20la%20competencia.m4a" length="14594433" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-14---anlsis-de-brechas-de-citacin-competitiva---identificando-por-qu-los-llms-recomiendan-pdps-de-la-competencia</guid>
-      <pubDate>Sat, 18 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>26:11</itunes:duration>
+      <title>M5·T14 · Digital PR y siembra de contenidos defensivos: Cómo posicionar activos positivos en foros y sitios de opinión sin edición directa</title>
+      <itunes:title>M5·T14 · Digital PR y siembra de contenidos defensivos: Cómo posicionar activos positivos en foros y sitios de opinión sin edición directa</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/14%20-%20Tema%2014%20-%20Digital%20PR%20y%20siembra%20de%20contenidos%20defensivos%20-%20C%C3%B3mo%20posicionar%20activos%20positivos%20en%20foros%20y%20sitios%20de%20opini%C3%B3n%20sin%20edici%C3%B3n%20directa.m4a" length="9479911" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-tema-14---digital-pr-y-siembra-de-contenidos-defensivos---cmo-posicionar-activos-positivos-en-foros-y-sitios-de-opinin-sin-edicin-directa</guid>
+      <pubDate>Sat, 18 Jul 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>16:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>14</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·T15 · Estrategia para dominar la intención de compra transaccional y comparativa en resúmenes generativos</title>
-      <itunes:title>M3·T15 · Estrategia para dominar la intención de compra transaccional y comparativa en resúmenes generativos</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/15%20-%20Tema%2015%20-%20Estrategia%20para%20dominar%20la%20intenci%C3%B3n%20de%20compra%20transaccional%20y%20comparativa%20en%20res%C3%BAmenes%20generativos.m4a" length="11987686" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-15---estrategia-para-dominar-la-intencin-de-compra-transaccional-y-comparativa-en-resmenes-generativos</guid>
-      <pubDate>Fri, 17 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>21:24</itunes:duration>
+      <title>M5·T15 · Correlación cuantitativa: Modelo de análisis para medir el impacto de variaciones del Net Sentiment Score en el CR de las PDPs</title>
+      <itunes:title>M5·T15 · Correlación cuantitativa: Modelo de análisis para medir el impacto de variaciones del Net Sentiment Score en el CR de las PDPs</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/15%20-%20Tema%2015%20-%20Correlaci%C3%B3n%20cuantitativa%20-%20Modelo%20de%20an%C3%A1lisis%20para%20medir%20el%20impacto%20de%20variaciones%20del%20Net%20Sentiment%20Score%20en%20el%20CR%20de%20las%20PDPs.m4a" length="11227536" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-tema-15---correlacin-cuantitativa---modelo-de-anlisis-para-medir-el-impacto-de-variaciones-del-net-sentiment-score-en-el-cr-de-las-pdps</guid>
+      <pubDate>Fri, 17 Jul 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>20:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>15</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
     <item>
-      <title>M3·T16 · Protección defensiva de marcas y productos clave en las respuestas contextuales de la IA</title>
-      <itunes:title>M3·T16 · Protección defensiva de marcas y productos clave en las respuestas contextuales de la IA</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/16%20-%20Tema%2016%20-%20Protecci%C3%B3n%20defensiva%20de%20marcas%20y%20productos%20clave%20en%20las%20respuestas%20contextuales%20de%20la%20IA.m4a" length="13486800" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-16---proteccin-defensiva-de-marcas-y-productos-clave-en-las-respuestas-contextuales-de-la-ia</guid>
-      <pubDate>Thu, 16 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>24:07</itunes:duration>
+      <title>M5·T16 · Protocolo de contención de crisis digitales mediante actualización en tiempo real de FAQ y banners de aclaración en PDPs</title>
+      <itunes:title>M5·T16 · Protocolo de contención de crisis digitales mediante actualización en tiempo real de FAQ y banners de aclaración en PDPs</itunes:title>
+      <description>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/16%20-%20Tema%2016%20-%20Protocolo%20de%20contenci%C3%B3n%20de%20crisis%20digitales%20mediante%20actualizaci%C3%B3n%20en%20tiempo%20real%20de%20FAQ%20y%20banners%20de%20aclaraci%C3%B3n%20en%20PDPs.m4a" length="13399858" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-citacion-en-pdp-plp-sha-tema-16---protocolo-de-contencin-de-crisis-digitales-mediante-actualizacin-en-tiempo-real-de-faq-y-banners-de-aclaracin-en-pdps</guid>
+      <pubDate>Thu, 16 Jul 2026 10:51:24 +0000</pubDate>
+      <itunes:duration>24:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>16</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
-    </item>
-    <item>
-      <title>M3·T17 · Mapeo de sentimiento y recomendación de producto dentro de las respuestas de motores conversacionales</title>
-      <itunes:title>M3·T17 · Mapeo de sentimiento y recomendación de producto dentro de las respuestas de motores conversacionales</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/17%20-%20Tema%2017%20-%20Mapeo%20de%20sentimiento%20y%20recomendaci%C3%B3n%20de%20producto%20dentro%20de%20las%20respuestas%20de%20motores%20conversacionales.m4a" length="13101103" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-17---mapeo-de-sentimiento-y-recomendacin-de-producto-dentro-de-las-respuestas-de-motores-conversacionales</guid>
-      <pubDate>Wed, 15 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>23:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>17</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
-    </item>
-    <item>
-      <title>M3·T18 · Tácticas ejecutivas para maximizar el Share of Model Voice (SoMV) frente a competidores directos</title>
-      <itunes:title>M3·T18 · Tácticas ejecutivas para maximizar el Share of Model Voice (SoMV) frente a competidores directos</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/18%20-%20Tema%2018%20-%20T%C3%A1cticas%20ejecutivas%20para%20maximizar%20el%20Share%20of%20Model%20Voice%20%28SoMV%29%20frente%20a%20competidores%20directos.m4a" length="14342665" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-18---tcticas-ejecutivas-para-maximizar-el-share-of-model-voice-somv-frente-a-competidores-directos</guid>
-      <pubDate>Tue, 14 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>25:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>18</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
-    </item>
-    <item>
-      <title>M3·B4 · Gobernanza, Alertas y Automatización del Reporteo</title>
-      <itunes:title>M3·B4 · Gobernanza, Alertas y Automatización del Reporteo</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/19%20-%20Bloque%204%20-%20Gobernanza%2C%20Alertas%20y%20Automatizaci%C3%B3n%20del%20Reporteo.m4a" length="14546403" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-bloque-4---gobernanza-alertas-y-automatizacin-del-reporteo</guid>
-      <pubDate>Mon, 13 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>26:14</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>19</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
-    </item>
-    <item>
-      <title>M3·T19 · Configuración de la arquitectura de métricas ejecutivas dentro de la suite Semrush ONE</title>
-      <itunes:title>M3·T19 · Configuración de la arquitectura de métricas ejecutivas dentro de la suite Semrush ONE</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/19%20-%20Tema%2019%20-%20Configuraci%C3%B3n%20de%20la%20arquitectura%20de%20m%C3%A9tricas%20ejecutivas%20dentro%20de%20la%20suite%20Semrush%20ONE.m4a" length="15668209" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-19---configuracin-de-la-arquitectura-de-mtricas-ejecutivas-dentro-de-la-suite-semrush-one</guid>
-      <pubDate>Sun, 12 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>28:19</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>19</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
-    </item>
-    <item>
-      <title>M3·T20 · Automatización de alertas sobre caídas o ganancias de visibilidad en resúmenes de IA para marcas prioritarias</title>
-      <itunes:title>M3·T20 · Automatización de alertas sobre caídas o ganancias de visibilidad en resúmenes de IA para marcas prioritarias</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/20%20-%20Tema%2020%20-%20Automatizaci%C3%B3n%20de%20alertas%20sobre%20ca%C3%ADdas%20o%20ganancias%20de%20visibilidad%20en%20res%C3%BAmenes%20de%20IA%20para%20marcas%20prioritarias.m4a" length="14428762" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-20---automatizacin-de-alertas-sobre-cadas-o-ganancias-de-visibilidad-en-resmenes-de-ia-para-marcas-prioritarias</guid>
-      <pubDate>Sat, 11 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>25:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>20</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
-    </item>
-    <item>
-      <title>M3·T21 · Integración de KPIs de AEO/GEO con herramientas de Business Intelligence corporativas</title>
-      <itunes:title>M3·T21 · Integración de KPIs de AEO/GEO con herramientas de Business Intelligence corporativas</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/21%20-%20Tema%2021%20-%20Integraci%C3%B3n%20de%20KPIs%20de%20AEO-GEO%20con%20herramientas%20de%20Business%20Intelligence%20corporativas.m4a" length="18606973" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-21---integracin-de-kpis-de-aeo-geo-con-herramientas-de-business-intelligence-corporativas</guid>
-      <pubDate>Fri, 10 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>33:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>21</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
-    </item>
-    <item>
-      <title>M3·T22 · Frecuencia y rituales de reporteo para la alta dirección: Informes semanales, mensuales y trimestrales</title>
-      <itunes:title>M3·T22 · Frecuencia y rituales de reporteo para la alta dirección: Informes semanales, mensuales y trimestrales</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/22%20-%20Tema%2022%20-%20Frecuencia%20y%20rituales%20de%20reporteo%20para%20la%20alta%20direcci%C3%B3n%20-%20Informes%20semanales%2C%20mensuales%20y%20trimestrales.m4a" length="13799635" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-22---frecuencia-y-rituales-de-reporteo-para-la-alta-direccin---informes-semanales-mensuales-y-trimestrales</guid>
-      <pubDate>Thu, 09 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>24:40</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>22</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
-    </item>
-    <item>
-      <title>M3·T23 · Alineación entre los equipos de E-commerce, Contenido y Analítica bajo los mismos objetivos de ventas en IA</title>
-      <itunes:title>M3·T23 · Alineación entre los equipos de E-commerce, Contenido y Analítica bajo los mismos objetivos de ventas en IA</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/23%20-%20Tema%2023%20-%20Alineaci%C3%B3n%20entre%20los%20equipos%20de%20E-commerce%2C%20Contenido%20y%20Anal%C3%ADtica%20bajo%20los%20mismos%20objetivos%20de%20ventas%20en%20IA.m4a" length="12463946" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-23---alineacin-entre-los-equipos-de-e-commerce-contenido-y-analtica-bajo-los-mismos-objetivos-de-ventas-en-ia</guid>
-      <pubDate>Wed, 08 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>22:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>23</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
-    </item>
-    <item>
-      <title>M3·B5 · Dashboard Ejecutivo y Hoja de Ruta de Transformación Anual</title>
-      <itunes:title>M3·B5 · Dashboard Ejecutivo y Hoja de Ruta de Transformación Anual</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/25%20-%20Bloque%205%20-%20Dashboard%20Ejecutivo%20y%20Hoja%20de%20Ruta%20de%20Transformaci%C3%B3n%20Anual.m4a" length="15589218" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-bloque-5---dashboard-ejecutivo-y-hoja-de-ruta-de-transformacin-anual</guid>
-      <pubDate>Mon, 06 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>27:54</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>25</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
-    </item>
-    <item>
-      <title>M3·T25 · Diseño y estructura de la plantilla del Dashboard Ejecutivo de Visibilidad y Ventas en IA</title>
-      <itunes:title>M3·T25 · Diseño y estructura de la plantilla del Dashboard Ejecutivo de Visibilidad y Ventas en IA</itunes:title>
-      <description>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
-      <itunes:summary>NEG GEO - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/25%20-%20Tema%2025%20-%20Dise%C3%B1o%20y%20estructura%20de%20la%20plantilla%20del%20Dashboard%20Ejecutivo%20de%20Visibilidad%20y%20Ventas%20en%20IA.m4a" length="8811909" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-aeo-y-geo-en-e-commerce-pdp-tema-25---diseo-y-estructura-de-la-plantilla-del-dashboard-ejecutivo-de-visibilidad-y-ventas-en-ia</guid>
-      <pubDate>Sun, 05 Jul 2026 10:23:07 +0000</pubDate>
-      <itunes:duration>15:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>25</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:author>Liverpool México</itunes:author>
-      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/03%20-%20F6%20M0%20I2%20-%20AEO%20y%20GEO%20en%20E-commerce%20PDP/cover.jpg"/>
-      <itunes:keywords>AEO y GEO en E-commerce PDP</itunes:keywords>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/05%20-%20F17%20M2%20I2%20-%20Citaci%C3%B3n%20en%20PDP-PLP%2C%20Sha/cover.jpg"/>
+      <itunes:keywords>Citación en PDP-PLP, Sha</itunes:keywords>
     </item>
   </channel>
 </rss>
