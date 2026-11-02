@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- actualizado lunes 2 nov 2026 5:02 pm -->
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASO gh - Gurús del Humo</title>
+    <link>https://pinachoperez.github.io/gd-h7k2m9qx4p</link>
+    <description>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+    <language>es-MX</language>
+    <copyright>© Liverpool México</copyright>
+    <lastBuildDate>Mon, 02 Nov 2026 23:02:39 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 23:02:39 +0000</pubDate>
+    <atom:link href="https://pinachoperez.github.io/gd-h7k2m9qx4p/42408dd.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Liverpool México</itunes:author>
+    <itunes:summary>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Liverpool México</itunes:name>
+      <itunes:email>podcast@liverpool.com.mx</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/cover.jpg"/>
+    <image>
+      <url>https://pinachoperez.github.io/gd-h7k2m9qx4p/cover.jpg</url>
+      <title>ASO gh - Gurús del Humo</title>
+      <link>https://pinachoperez.github.io/gd-h7k2m9qx4p</link>
+    </image>
+    <item>
+      <title>M1·0 · Arquitectura SEO y ASO Avanzado para Apps de E-commerce</title>
+      <itunes:title>M1·0 · Arquitectura SEO y ASO Avanzado para Apps de E-commerce</itunes:title>
+      <description>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/00%20-%20Arquitectura%20SEO%20y%20ASO%20Avanzado%20para%20Apps%20de%20E-commerce.m4a" length="15821587" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-arquitectura-seo-y-aso-avanzado-para-apps-de-e-commerce</guid>
+      <pubDate>Mon, 02 Nov 2026 23:02:39 +0000</pubDate>
+      <itunes:duration>15:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/cover.jpg"/>
+      <itunes:keywords>Arquitectura SEO y ASO Av</itunes:keywords>
+    </item>
+    <item>
+      <title>M1·B1 · Ingeniería Algorítmica Dual</title>
+      <itunes:title>M1·B1 · Ingeniería Algorítmica Dual</itunes:title>
+      <description>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/01%20-%20Bloque%201%20-%20Ingenier%C3%ADa%20Algor%C3%ADtmica%20Dual.m4a" length="16307875" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-bloque-1---ingeniera-algortmica-dual</guid>
+      <pubDate>Sun, 01 Nov 2026 23:02:39 +0000</pubDate>
+      <itunes:duration>16:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/cover.jpg"/>
+      <itunes:keywords>Arquitectura SEO y ASO Av</itunes:keywords>
+    </item>
+    <item>
+      <title>M1·T1 · Diferencias algorítmicas estructurales entre el ranking de App Store y Google Play Console en el último año</title>
+      <itunes:title>M1·T1 · Diferencias algorítmicas estructurales entre el ranking de App Store y Google Play Console en el último año</itunes:title>
+      <description>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/01%20-%20Tema%201%20-%20Diferencias%20algor%C3%ADtmicas%20estructurales%20entre%20el%20ranking%20de%20App%20Store%20y%20Google%20Play%20Console%20en%20el%20%C3%BAltimo%20a%C3%B1o.m4a" length="12728357" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-tema-1---diferencias-algortmicas-estructurales-entre-el-ranking-de-app-store-y-google-play-console-en-el-ltimo-ao</guid>
+      <pubDate>Sat, 31 Oct 2026 23:02:39 +0000</pubDate>
+      <itunes:duration>12:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/cover.jpg"/>
+      <itunes:keywords>Arquitectura SEO y ASO Av</itunes:keywords>
+    </item>
+    <item>
+      <title>M1·T2 · Ponderación de factores on-metadata frente a off-metadata para posicionamiento en ecosistemas nativos</title>
+      <itunes:title>M1·T2 · Ponderación de factores on-metadata frente a off-metadata para posicionamiento en ecosistemas nativos</itunes:title>
+      <description>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/02%20-%20Tema%202%20-%20Ponderaci%C3%B3n%20de%20factores%20on-metadata%20frente%20a%20off-metadata%20para%20posicionamiento%20en%20ecosistemas%20nativos.m4a" length="14657952" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-tema-2---ponderacin-de-factores-on-metadata-frente-a-off-metadata-para-posicionamiento-en-ecosistemas-nativos</guid>
+      <pubDate>Fri, 30 Oct 2026 23:02:39 +0000</pubDate>
+      <itunes:duration>14:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/cover.jpg"/>
+      <itunes:keywords>Arquitectura SEO y ASO Av</itunes:keywords>
+    </item>
+    <item>
+      <title>M1·T3 · Arquitectura de indexación profunda en Google Play y el uso de Natural Language Processing (NLP) en descripciones</title>
+      <itunes:title>M1·T3 · Arquitectura de indexación profunda en Google Play y el uso de Natural Language Processing (NLP) en descripciones</itunes:title>
+      <description>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/03%20-%20Tema%203%20-%20Arquitectura%20de%20indexaci%C3%B3n%20profunda%20en%20Google%20Play%20y%20el%20uso%20de%20Natural%20Language%20Processing%20%28NLP%29%20en%20descripciones.m4a" length="18447735" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-tema-3---arquitectura-de-indexacin-profunda-en-google-play-y-el-uso-de-natural-language-processing-nlp-en-descripciones</guid>
+      <pubDate>Thu, 29 Oct 2026 23:02:39 +0000</pubDate>
+      <itunes:duration>18:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/cover.jpg"/>
+      <itunes:keywords>Arquitectura SEO y ASO Av</itunes:keywords>
+    </item>
+    <item>
+      <title>M1·T4 · App Store de iOS: Tratamiento de keywords ocultas, concatenación de términos y taxonomía avanzada de categorías</title>
+      <itunes:title>M1·T4 · App Store de iOS: Tratamiento de keywords ocultas, concatenación de términos y taxonomía avanzada de categorías</itunes:title>
+      <description>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/04%20-%20Tema%204%20-%20App%20Store%20de%20iOS%20-%20Tratamiento%20de%20keywords%20ocultas%2C%20concatenaci%C3%B3n%20de%20t%C3%A9rminos%20y%20taxonom%C3%ADa%20avanzada%20de%20categor%C3%ADas.m4a" length="11087396" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-tema-4---app-store-de-ios---tratamiento-de-keywords-ocultas-concatenacin-de-trminos-y-taxonoma-avanzada-de-categoras</guid>
+      <pubDate>Wed, 28 Oct 2026 23:02:39 +0000</pubDate>
+      <itunes:duration>10:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/cover.jpg"/>
+      <itunes:keywords>Arquitectura SEO y ASO Av</itunes:keywords>
+    </item>
+    <item>
+      <title>M1·T5 · Impacto algorítmico de los datos de comportamiento: CTR de búsqueda, First Opens, retención temprana y tasas de desinstalación</title>
+      <itunes:title>M1·T5 · Impacto algorítmico de los datos de comportamiento: CTR de búsqueda, First Opens, retención temprana y tasas de desinstalación</itunes:title>
+      <description>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/05%20-%20Tema%205%20-%20Impacto%20algor%C3%ADtmico%20de%20los%20datos%20de%20comportamiento%20-%20CTR%20de%20b%C3%BAsqueda%2C%20First%20Opens%2C%20retenci%C3%B3n%20temprana%20y%20tasas%20de%20desinstalaci%C3%B3n.m4a" length="19018825" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-tema-5---impacto-algortmico-de-los-datos-de-comportamiento---ctr-de-bsqueda-first-opens-retencin-temprana-y-tasas-de-desinstalacin</guid>
+      <pubDate>Tue, 27 Oct 2026 23:02:39 +0000</pubDate>
+      <itunes:duration>19:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/cover.jpg"/>
+      <itunes:keywords>Arquitectura SEO y ASO Av</itunes:keywords>
+    </item>
+    <item>
+      <title>M1·T6 · Integración y flujos de datos técnicos entre AppsFlyer y consolas nativas para garantizar la trazabilidad orgánica</title>
+      <itunes:title>M1·T6 · Integración y flujos de datos técnicos entre AppsFlyer y consolas nativas para garantizar la trazabilidad orgánica</itunes:title>
+      <description>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
+      <itunes:summary>ASO gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/06%20-%20Tema%206%20-%20Integraci%C3%B3n%20y%20flujos%20de%20datos%20t%C3%A9cnicos%20entre%20AppsFlyer%20y%20consolas%20nativas%20para%20garantizar%20la%20trazabilidad%20org%C3%A1nica.m4a" length="20028417" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-tema-6---integracin-y-flujos-de-datos-tcnicos-entre-appsflyer-y-consolas-nativas-para-garantizar-la-trazabilidad-orgnica</guid>
+      <pubDate>Mon, 26 Oct 2026 23:02:39 +0000</pubDate>
+      <itunes:duration>20:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:author>Liverpool México</itunes:author>
+      <itunes:image href="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/cover.jpg"/>
+      <itunes:keywords>Arquitectura SEO y ASO Av</itunes:keywords>
+    </item>
+  </channel>
+</rss>
