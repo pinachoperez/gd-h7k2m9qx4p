@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- actualizado lunes 2 nov 2026 5:13 pm -->
+<!-- actualizado lunes 2 nov 2026 5:16 pm -->
 <rss version="2.0"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -10,8 +10,8 @@
     <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
     <language>es-MX</language>
     <copyright>© Liverpool México</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 23:13:05 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 23:13:05 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 23:16:28 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 23:16:28 +0000</pubDate>
     <atom:link href="https://pinachoperez.github.io/gd-h7k2m9qx4p/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Liverpool México</itunes:author>
     <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
@@ -33,9 +33,9 @@
       <itunes:title>M1·0 · Arquitectura SEO y ASO Avanzado para Apps de E-commerce</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/00-g.m4a" length="15821587" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-g</guid>
-      <pubDate>Mon, 02 Nov 2026 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/00%20-%20Arquitectura%20SEO%20y%20ASO%20Avanzado%20para%20Apps%20de.m4a" length="15821587" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-arquitectura-seo-y-aso-avanzado-para-apps-de</guid>
+      <pubDate>Mon, 02 Nov 2026 23:16:28 +0000</pubDate>
       <itunes:duration>15:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -50,9 +50,9 @@
       <itunes:title>M1·B1 · Ingeniería Algorítmica Dual</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/01-b1.m4a" length="16307875" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-b1</guid>
-      <pubDate>Sun, 01 Nov 2026 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/01%20-%20Bloque%201%20-%20Ingenier%C3%ADa%20Algor%C3%ADtmica%20Dual.m4a" length="16307875" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-bloque-1---ingeniera-algortmica-dual</guid>
+      <pubDate>Sun, 01 Nov 2026 23:16:28 +0000</pubDate>
       <itunes:duration>16:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -67,9 +67,9 @@
       <itunes:title>M1·T1 · Diferencias algorítmicas estructurales entre el ranking de App Store y Google Play Console en el último año</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/01-t1.m4a" length="12728357" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-t1</guid>
-      <pubDate>Sat, 31 Oct 2026 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/01%20-%20Tema%201%20-%20Diferencias%20algor%C3%ADtmicas%20estructurales%20entre%20el.m4a" length="12728357" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-tema-1---diferencias-algortmicas-estructurales-entre-el</guid>
+      <pubDate>Sat, 31 Oct 2026 23:16:28 +0000</pubDate>
       <itunes:duration>12:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -84,9 +84,9 @@
       <itunes:title>M1·T2 · Ponderación de factores on-metadata frente a off-metadata para posicionamiento en ecosistemas nativos</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/02-t2.m4a" length="14657952" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-t2</guid>
-      <pubDate>Fri, 30 Oct 2026 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/02%20-%20Tema%202%20-%20Ponderaci%C3%B3n%20de%20factores%20on-metadata%20frente%20a.m4a" length="14657952" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-tema-2---ponderacin-de-factores-on-metadata-frente-a</guid>
+      <pubDate>Fri, 30 Oct 2026 23:16:28 +0000</pubDate>
       <itunes:duration>14:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -101,9 +101,9 @@
       <itunes:title>M1·T3 · Arquitectura de indexación profunda en Google Play y el uso de Natural Language Processing (NLP) en descripciones</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/03-t3.m4a" length="18447735" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-t3</guid>
-      <pubDate>Thu, 29 Oct 2026 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/03%20-%20Tema%203%20-%20Arquitectura%20de%20indexaci%C3%B3n%20profunda%20en%20Google%20Play.m4a" length="18447735" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-tema-3---arquitectura-de-indexacin-profunda-en-google-play</guid>
+      <pubDate>Thu, 29 Oct 2026 23:16:28 +0000</pubDate>
       <itunes:duration>18:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -118,9 +118,9 @@
       <itunes:title>M1·T4 · App Store de iOS: Tratamiento de keywords ocultas, concatenación de términos y taxonomía avanzada de categorías</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/04-t4.m4a" length="11087396" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-t4</guid>
-      <pubDate>Wed, 28 Oct 2026 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/04%20-%20Tema%204%20-%20App%20Store%20de%20iOS-%20Tratamiento%20de%20keywords%20ocultas%2C.m4a" length="11087396" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-tema-4---app-store-de-ios--tratamiento-de-keywords-ocultas</guid>
+      <pubDate>Wed, 28 Oct 2026 23:16:28 +0000</pubDate>
       <itunes:duration>10:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -135,9 +135,9 @@
       <itunes:title>M1·T5 · Impacto algorítmico de los datos de comportamiento: CTR de búsqueda, First Opens, retención temprana y tasas de desinstalación</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/05-t5.m4a" length="19018825" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-t5</guid>
-      <pubDate>Tue, 27 Oct 2026 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/05%20-%20Tema%205%20-%20Impacto%20algor%C3%ADtmico%20de%20los%20datos%20de%20comportamiento.m4a" length="19018825" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-tema-5---impacto-algortmico-de-los-datos-de-comportamiento</guid>
+      <pubDate>Tue, 27 Oct 2026 23:16:28 +0000</pubDate>
       <itunes:duration>19:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -152,9 +152,9 @@
       <itunes:title>M1·T6 · Integración y flujos de datos técnicos entre AppsFlyer y consolas nativas para garantizar la trazabilidad orgánica</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/06-t6.m4a" length="20028417" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-t6</guid>
-      <pubDate>Mon, 26 Oct 2026 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/01%20-%20F28%20M4%20I0%20-%20Arquitectura%20SEO%20y%20ASO%20Av/06%20-%20Tema%206%20-%20Integraci%C3%B3n%20y%20flujos%20de%20datos%20t%C3%A9cnicos%20entre.m4a" length="20028417" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-arquitectura-seo-y-aso-av-tema-6---integracin-y-flujos-de-datos-tcnicos-entre</guid>
+      <pubDate>Mon, 26 Oct 2026 23:16:28 +0000</pubDate>
       <itunes:duration>20:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -169,9 +169,9 @@
       <itunes:title>M2·0 · Reestructuración y Gobernanza Avanzada de PDPs Internacionales con Variantes para Resolver Canibalización y Escalar en Google Shopping</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/00-g.m4a" length="18090546" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-g</guid>
-      <pubDate>Sun, 02 Nov 2025 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/00%20-%20Reestructuraci%C3%B3n%20y%20Gobernanza%20Avanzada%20de%20PDPs.m4a" length="18090546" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-reestructuracin-y-gobernanza-avanzada-de-pdps</guid>
+      <pubDate>Sun, 02 Nov 2025 23:16:28 +0000</pubDate>
       <itunes:duration>18:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -186,9 +186,9 @@
       <itunes:title>M2·B1 · Diagnóstico y Resolución Técnica de Canibalización por Variantes</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/01-b1.m4a" length="16474245" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-b1</guid>
-      <pubDate>Sat, 01 Nov 2025 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/01%20-%20Bloque%201%20-%20Diagn%C3%B3stico%20y%20Resoluci%C3%B3n%20T%C3%A9cnica%20de%20Canibalizaci%C3%B3n.m4a" length="16474245" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-bloque-1---diagnstico-y-resolucin-tcnica-de-canibalizacin</guid>
+      <pubDate>Sat, 01 Nov 2025 23:16:28 +0000</pubDate>
       <itunes:duration>16:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -203,9 +203,9 @@
       <itunes:title>M2·T1 · Arquitectura URL para variantes: Pros y contras del modelo de URL plana (actual) vs. URLs independientes vs. parámetros estructurados</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/01-t1.m4a" length="23485917" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-t1</guid>
-      <pubDate>Fri, 31 Oct 2025 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/01%20-%20Tema%201%20-%20Arquitectura%20URL%20para%20variantes-%20Pros%20y%20contras%20del.m4a" length="23485917" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-tema-1---arquitectura-url-para-variantes--pros-y-contras-del</guid>
+      <pubDate>Fri, 31 Oct 2025 23:16:28 +0000</pubDate>
       <itunes:duration>23:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -220,9 +220,9 @@
       <itunes:title>M2·T2 · Implementación avanzada de etiquetas Canonical y Hreflang en entornos asimétricos e híbridos (propios + terceros) para evitar la competencia interna</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/02-t2.m4a" length="24557744" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-t2</guid>
-      <pubDate>Thu, 30 Oct 2025 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/02%20-%20Tema%202%20-%20Implementaci%C3%B3n%20avanzada%20de%20etiquetas%20Canonical%20y.m4a" length="24557744" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-tema-2---implementacin-avanzada-de-etiquetas-canonical-y</guid>
+      <pubDate>Thu, 30 Oct 2025 23:16:28 +0000</pubDate>
       <itunes:duration>24:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -237,9 +237,9 @@
       <itunes:title>M2·T3 · Gobernanza de Schema Markup (Product y ProductGroup): Declaración correcta de variantes en JSON-LD para diferenciar tonos/tallas sin confundir al bot</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/03-t3.m4a" length="16120876" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-t3</guid>
-      <pubDate>Wed, 29 Oct 2025 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/03%20-%20Tema%203%20-%20Gobernanza%20de%20Schema%20Markup%20%28Product%20y.m4a" length="16120876" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-tema-3---gobernanza-de-schema-markup-product-y</guid>
+      <pubDate>Wed, 29 Oct 2025 23:16:28 +0000</pubDate>
       <itunes:duration>16:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -254,9 +254,9 @@
       <itunes:title>M2·T4 · Diferenciación dinámica de Metadata (H1, Title, Description) a nivel variante cuando la URL es plana: Soluciones con SSR o CSR</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/04-t4.m4a" length="13805048" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-t4</guid>
-      <pubDate>Tue, 28 Oct 2025 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/04%20-%20Tema%204%20-%20Diferenciaci%C3%B3n%20din%C3%A1mica%20de%20Metadata%20%28H1%2C%20Title%2C.m4a" length="13805048" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-tema-4---diferenciacin-dinmica-de-metadata-h1-title</guid>
+      <pubDate>Tue, 28 Oct 2025 23:16:28 +0000</pubDate>
       <itunes:duration>13:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -271,9 +271,9 @@
       <itunes:title>M2·T5 · Estrategias de rastreo eficiente (Crawl Budget) para catálogos masivos con alta densidad de variantes</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/05-t5.m4a" length="15644641" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-t5</guid>
-      <pubDate>Mon, 27 Oct 2025 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/05%20-%20Tema%205%20-%20Estrategias%20de%20rastreo%20eficiente%20%28Crawl%20Budget%29.m4a" length="15644641" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-tema-5---estrategias-de-rastreo-eficiente-crawl-budget</guid>
+      <pubDate>Mon, 27 Oct 2025 23:16:28 +0000</pubDate>
       <itunes:duration>15:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -288,9 +288,9 @@
       <itunes:title>M2·T6 · Caso de Estudio Retail: Cómo [Ej. Sephora/Douglas] resolvió la canibalización masiva de variantes de color en su migración de plataforma</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/06-t6.m4a" length="12675763" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-t6</guid>
-      <pubDate>Sun, 26 Oct 2025 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/06%20-%20Tema%206%20-%20Caso%20de%20Estudio%20Retail-%20C%C3%B3mo%20%5BEj.%20Sephora-Douglas%5D.m4a" length="12675763" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-tema-6---caso-de-estudio-retail--cmo-ej-sephora-douglas</guid>
+      <pubDate>Sun, 26 Oct 2025 23:16:28 +0000</pubDate>
       <itunes:duration>12:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -305,9 +305,9 @@
       <itunes:title>M13·0 · Arquitectura Técnica de Retail E-Commerce para GEO, AEO y Comercio Autónomo por Agentes: Del JSON-LD Extendido a Protocolos MCP, WebMCP y AP2</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/00-g.m4a" length="13243493" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-g</guid>
-      <pubDate>Wed, 05 Nov 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/00%20-%20Arquitectura%20T%C3%A9cnica%20de%20Retail%20E-Commerce%20para%20GEO%2C.m4a" length="13243493" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-arquitectura-tcnica-de-retail-e-commerce-para-geo</guid>
+      <pubDate>Wed, 05 Nov 2014 23:16:28 +0000</pubDate>
       <itunes:duration>23:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -322,9 +322,9 @@
       <itunes:title>M13·B1 · Checklists Técnicos e Infraestructura de Rastreo para Bots de IA</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/01-b1.m4a" length="16157038" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-b1</guid>
-      <pubDate>Tue, 04 Nov 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/01%20-%20Bloque%201%20-%20Checklists%20T%C3%A9cnicos%20e%20Infraestructura%20de%20Rastreo.m4a" length="16157038" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-bloque-1---checklists-tcnicos-e-infraestructura-de-rastreo</guid>
+      <pubDate>Tue, 04 Nov 2014 23:16:28 +0000</pubDate>
       <itunes:duration>29:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -339,9 +339,9 @@
       <itunes:title>M13·T2 · Implementación y estructura del archivo llms.txt y agents.md en la raíz del dominio para el consumo sintético de catálogos e instrucciones de marca</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/02-t2.m4a" length="10892755" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-t2</guid>
-      <pubDate>Sun, 02 Nov 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/02%20-%20Tema%202%20-%20Implementaci%C3%B3n%20y%20estructura%20del%20archivo%20llms.txt%20y.m4a" length="10892755" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-2---implementacin-y-estructura-del-archivo-llmstxt-y</guid>
+      <pubDate>Sun, 02 Nov 2014 23:16:28 +0000</pubDate>
       <itunes:duration>19:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -356,9 +356,9 @@
       <itunes:title>M13·T3 · Sincronización en tiempo real del Google Merchant Center Feed vía Content API vs. XML Sitemaps dinámicos: reducción de latencia en precios e inventario</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/03-t3.m4a" length="13622300" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-t3</guid>
-      <pubDate>Sat, 01 Nov 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/03%20-%20Tema%203%20-%20Sincronizaci%C3%B3n%20en%20tiempo%20real%20del%20Google%20Merchant.m4a" length="13622300" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-3---sincronizacin-en-tiempo-real-del-google-merchant</guid>
+      <pubDate>Sat, 01 Nov 2014 23:16:28 +0000</pubDate>
       <itunes:duration>43:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -373,9 +373,9 @@
       <itunes:title>M13·T4 · Caso de estudio: Impacto de la latencia del feed y descalificación de Rich Snippets en conversiones de e-commerce retail masivo</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/04-t4.m4a" length="15991797" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-t4</guid>
-      <pubDate>Fri, 31 Oct 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/04%20-%20Tema%204%20-%20Caso%20de%20estudio-%20Impacto%20de%20la%20latencia%20del%20feed%20y.m4a" length="15991797" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-4---caso-de-estudio--impacto-de-la-latencia-del-feed-y</guid>
+      <pubDate>Fri, 31 Oct 2014 23:16:28 +0000</pubDate>
       <itunes:duration>28:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -390,9 +390,9 @@
       <itunes:title>M13·T5 · Estrategias para gestionar el presupuesto de rastreo (Crawl Budget) frente a scrapers agresivos de LLMs sin afectar la indexación sintética</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/05-t5.m4a" length="16692721" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-t5</guid>
-      <pubDate>Thu, 30 Oct 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/05%20-%20Tema%205%20-%20Estrategias%20para%20gestionar%20el%20presupuesto%20de.m4a" length="16692721" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-5---estrategias-para-gestionar-el-presupuesto-de</guid>
+      <pubDate>Thu, 30 Oct 2014 23:16:28 +0000</pubDate>
       <itunes:duration>30:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -407,9 +407,9 @@
       <itunes:title>M13·T6 · Checklist técnico de CDN y Edge Computing (Cloudflare/Fastly) para servir contenido estático optimizado para LLMs sin saturar servidores de origen</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/06-t6.m4a" length="15181306" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-t6</guid>
-      <pubDate>Wed, 29 Oct 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/06%20-%20Tema%206%20-%20Checklist%20t%C3%A9cnico%20de%20CDN%20y%20Edge%20Computing.m4a" length="15181306" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-6---checklist-tcnico-de-cdn-y-edge-computing</guid>
+      <pubDate>Wed, 29 Oct 2014 23:16:28 +0000</pubDate>
       <itunes:duration>27:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -424,9 +424,9 @@
       <itunes:title>M13·B2 · Esquemas JSON-LD Extendidos para PDPs y PLPs en Retail</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/07-b2.m4a" length="10643143" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-b2</guid>
-      <pubDate>Tue, 28 Oct 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/07%20-%20Bloque%202%20-%20Esquemas%20JSON-LD%20Extendidos%20para%20PDPs%20y%20PLPs%20en.m4a" length="10643143" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-bloque-2---esquemas-json-ld-extendidos-para-pdps-y-plps-en</guid>
+      <pubDate>Tue, 28 Oct 2014 23:16:28 +0000</pubDate>
       <itunes:duration>18:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -441,9 +441,9 @@
       <itunes:title>M13·T7 · Checklist avanzado de JSON-LD en PDP (Product, Offer, MerchantReturnPolicy, AggregateRating) con atributos GTIN13, MPN y disponibilidad geográfica</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/07-t7.m4a" length="9079312" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-t7</guid>
-      <pubDate>Mon, 27 Oct 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/07%20-%20Tema%207%20-%20Checklist%20avanzado%20de%20JSON-LD%20en%20PDP%20%28Product%2C.m4a" length="9079312" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-7---checklist-avanzado-de-json-ld-en-pdp-product</guid>
+      <pubDate>Mon, 27 Oct 2014 23:16:28 +0000</pubDate>
       <itunes:duration>15:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -458,9 +458,9 @@
       <itunes:title>M13·T8 · JSON-LD Extendido para Omnicanalidad: Integración de Store, GeoCoordinates, OpeningHoursSpecification e InStoreOnly Offer</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/08-t8.m4a" length="16417380" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-t8</guid>
-      <pubDate>Sun, 26 Oct 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/08%20-%20Tema%208%20-%20JSON-LD%20Extendido%20para%20Omnicanalidad-%20Integraci%C3%B3n.m4a" length="16417380" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-8---json-ld-extendido-para-omnicanalidad--integracin</guid>
+      <pubDate>Sun, 26 Oct 2014 23:16:28 +0000</pubDate>
       <itunes:duration>29:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -475,9 +475,9 @@
       <itunes:title>M13·T9 · Estructuración de datos en PLPs (Category Pages): ItemList, CollectionPage y anidación de productos sin saturación de DOM</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/09-t9.m4a" length="14489794" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-t9</guid>
-      <pubDate>Sat, 25 Oct 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/09%20-%20Tema%209%20-%20Estructuraci%C3%B3n%20de%20datos%20en%20PLPs%20%28Category%20Pages%29.m4a" length="14489794" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-9---estructuracin-de-datos-en-plps-category-pages</guid>
+      <pubDate>Sat, 25 Oct 2014 23:16:28 +0000</pubDate>
       <itunes:duration>26:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -492,9 +492,9 @@
       <itunes:title>M13·T10 · Implementación del estándar GS1 Digital Link en URLs de productos y su resolución para motores de respuesta y escaneo móvil</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/10-t10.m4a" length="14252848" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-t10</guid>
-      <pubDate>Fri, 24 Oct 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/10%20-%20Tema%2010%20-%20Implementaci%C3%B3n%20del%20est%C3%A1ndar%20GS1%20Digital%20Link%20en.m4a" length="14252848" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-10---implementacin-del-estndar-gs1-digital-link-en</guid>
+      <pubDate>Fri, 24 Oct 2014 23:16:28 +0000</pubDate>
       <itunes:duration>25:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -509,9 +509,9 @@
       <itunes:title>M13·T12 · Caso de estudio: Aumento de CTR e impresiones en Merchant Listings mediante la adición de datos de políticas de devolución y envío en JSON-LD</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/12-t12.m4a" length="12870950" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-t12</guid>
-      <pubDate>Wed, 22 Oct 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/12%20-%20Tema%2012%20-%20Caso%20de%20estudio-%20Aumento%20de%20CTR%20e%20impresiones%20en.m4a" length="12870950" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-12---caso-de-estudio--aumento-de-ctr-e-impresiones-en</guid>
+      <pubDate>Wed, 22 Oct 2014 23:16:28 +0000</pubDate>
       <itunes:duration>23:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -526,9 +526,9 @@
       <itunes:title>M13·T13 · Reorganización del DOM y arquitectura de información en PDPs para la extracción precisa por parte de algoritmos RAG (Retrieval-Augmented Generation)</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/13-t13.m4a" length="10432668" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-t13</guid>
-      <pubDate>Mon, 20 Oct 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/13%20-%20Tema%2013%20-%20Reorganizaci%C3%B3n%20del%20DOM%20y%20arquitectura%20de.m4a" length="10432668" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-13---reorganizacin-del-dom-y-arquitectura-de</guid>
+      <pubDate>Mon, 20 Oct 2014 23:16:28 +0000</pubDate>
       <itunes:duration>18:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -543,9 +543,9 @@
       <itunes:title>M13·T15 · Optimización de PLPs para búsquedas conversacionales e intenciones cruzadas (ej. &quot;muebles de exterior para terraza pequeña y clima lluvioso&quot;)</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/15-t15.m4a" length="10555848" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-t15</guid>
-      <pubDate>Sat, 18 Oct 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/15%20-%20Tema%2015%20-%20Optimizaci%C3%B3n%20de%20PLPs%20para%20b%C3%BAsquedas.m4a" length="10555848" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-15---optimizacin-de-plps-para-bsquedas</guid>
+      <pubDate>Sat, 18 Oct 2014 23:16:28 +0000</pubDate>
       <itunes:duration>18:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -560,9 +560,9 @@
       <itunes:title>M13·T16 · Análisis de sentimiento e integración de reseñas de clientes en la capa de contenido leíble por LLMs para citación en Motores de Respuesta</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/16-t16.m4a" length="12247913" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-t16</guid>
-      <pubDate>Fri, 17 Oct 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/16%20-%20Tema%2016%20-%20An%C3%A1lisis%20de%20sentimiento%20e%20integraci%C3%B3n%20de%20rese%C3%B1as%20de.m4a" length="12247913" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-16---anlisis-de-sentimiento-e-integracin-de-reseas-de</guid>
+      <pubDate>Fri, 17 Oct 2014 23:16:28 +0000</pubDate>
       <itunes:duration>21:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -577,9 +577,9 @@
       <itunes:title>M13·T17 · Caso de estudio: Comparativa de tasa de mención y cuota de voz en Perplexity y ChatGPT entre PDPs estructuradas vs. PDPs tradicionales</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/17-t17.m4a" length="10040829" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-t17</guid>
-      <pubDate>Thu, 16 Oct 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/17%20-%20Tema%2017%20-%20Caso%20de%20estudio-%20Comparativa%20de%20tasa%20de%20menci%C3%B3n%20y.m4a" length="10040829" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-17---caso-de-estudio--comparativa-de-tasa-de-mencin-y</guid>
+      <pubDate>Thu, 16 Oct 2014 23:16:28 +0000</pubDate>
       <itunes:duration>17:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -594,9 +594,9 @@
       <itunes:title>M13·T18 · Testing de contenido sintético: Metodología para auditar cómo los modelos de lenguaje resumen y recomiendan los productos de tu catálogo</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/18.m4a" length="6788314" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-18</guid>
-      <pubDate>Wed, 15 Oct 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/18%20-%20Tema%2018%20-%20Testing%20de%20contenido%20sint%C3%A9tico-%20Metodolog%C3%ADa%20para.m4a" length="6788314" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-18---testing-de-contenido-sinttico--metodologa-para</guid>
+      <pubDate>Wed, 15 Oct 2014 23:16:28 +0000</pubDate>
       <itunes:duration>11:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -611,9 +611,9 @@
       <itunes:title>M13·T19 · Model Context Protocol (MCP): Arquitectura de servidores MCP para exponer el catálogo de productos y stock a clientes y agentes LLM</itunes:title>
       <description>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>Gurús del Humo gh. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/19.m4a" length="12870839" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-19</guid>
-      <pubDate>Mon, 13 Oct 2014 23:13:04 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/13%20-%20F17%20M1%20I4%20-%20T%C3%A9cnica%20de%20Retail%20GEO/19%20-%20Tema%2019%20-%20Model%20Context%20Protocol%20%28MCP%29-%20Arquitectura%20de.m4a" length="12870839" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-tcnica-de-retail-geo-tema-19---model-context-protocol-mcp--arquitectura-de</guid>
+      <pubDate>Mon, 13 Oct 2014 23:16:28 +0000</pubDate>
       <itunes:duration>23:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>

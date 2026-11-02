@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- actualizado lunes 2 nov 2026 5:13 pm -->
+<!-- actualizado lunes 2 nov 2026 5:16 pm -->
 <rss version="2.0"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -10,8 +10,8 @@
     <description>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
     <language>es-MX</language>
     <copyright>© Liverpool México</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 23:13:05 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 23:13:05 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 23:16:29 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 23:16:29 +0000</pubDate>
     <atom:link href="https://pinachoperez.github.io/gd-h7k2m9qx4p/1985b6a.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Liverpool México</itunes:author>
     <itunes:summary>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
@@ -33,9 +33,9 @@
       <itunes:title>M2·0 · Reestructuración y Gobernanza Avanzada de PDPs Internacionales con Variantes para Resolver Canibalización y Escalar en Google Shopping</itunes:title>
       <description>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/00-g.m4a" length="18090546" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-g</guid>
-      <pubDate>Sun, 02 Nov 2025 23:13:05 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/00%20-%20Reestructuraci%C3%B3n%20y%20Gobernanza%20Avanzada%20de%20PDPs.m4a" length="18090546" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-reestructuracin-y-gobernanza-avanzada-de-pdps</guid>
+      <pubDate>Sun, 02 Nov 2025 23:16:29 +0000</pubDate>
       <itunes:duration>18:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -50,9 +50,9 @@
       <itunes:title>M2·B1 · Diagnóstico y Resolución Técnica de Canibalización por Variantes</itunes:title>
       <description>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/01-b1.m4a" length="16474245" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-b1</guid>
-      <pubDate>Sat, 01 Nov 2025 23:13:05 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/01%20-%20Bloque%201%20-%20Diagn%C3%B3stico%20y%20Resoluci%C3%B3n%20T%C3%A9cnica%20de%20Canibalizaci%C3%B3n.m4a" length="16474245" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-bloque-1---diagnstico-y-resolucin-tcnica-de-canibalizacin</guid>
+      <pubDate>Sat, 01 Nov 2025 23:16:29 +0000</pubDate>
       <itunes:duration>16:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -67,9 +67,9 @@
       <itunes:title>M2·T1 · Arquitectura URL para variantes: Pros y contras del modelo de URL plana (actual) vs. URLs independientes vs. parámetros estructurados</itunes:title>
       <description>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/01-t1.m4a" length="23485917" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-t1</guid>
-      <pubDate>Fri, 31 Oct 2025 23:13:05 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/01%20-%20Tema%201%20-%20Arquitectura%20URL%20para%20variantes-%20Pros%20y%20contras%20del.m4a" length="23485917" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-tema-1---arquitectura-url-para-variantes--pros-y-contras-del</guid>
+      <pubDate>Fri, 31 Oct 2025 23:16:29 +0000</pubDate>
       <itunes:duration>23:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -84,9 +84,9 @@
       <itunes:title>M2·T2 · Implementación avanzada de etiquetas Canonical y Hreflang en entornos asimétricos e híbridos (propios + terceros) para evitar la competencia interna</itunes:title>
       <description>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/02-t2.m4a" length="24557744" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-t2</guid>
-      <pubDate>Thu, 30 Oct 2025 23:13:05 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/02%20-%20Tema%202%20-%20Implementaci%C3%B3n%20avanzada%20de%20etiquetas%20Canonical%20y.m4a" length="24557744" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-tema-2---implementacin-avanzada-de-etiquetas-canonical-y</guid>
+      <pubDate>Thu, 30 Oct 2025 23:16:29 +0000</pubDate>
       <itunes:duration>24:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -101,9 +101,9 @@
       <itunes:title>M2·T3 · Gobernanza de Schema Markup (Product y ProductGroup): Declaración correcta de variantes en JSON-LD para diferenciar tonos/tallas sin confundir al bot</itunes:title>
       <description>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/03-t3.m4a" length="16120876" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-t3</guid>
-      <pubDate>Wed, 29 Oct 2025 23:13:05 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/03%20-%20Tema%203%20-%20Gobernanza%20de%20Schema%20Markup%20%28Product%20y.m4a" length="16120876" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-tema-3---gobernanza-de-schema-markup-product-y</guid>
+      <pubDate>Wed, 29 Oct 2025 23:16:29 +0000</pubDate>
       <itunes:duration>16:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -118,9 +118,9 @@
       <itunes:title>M2·T4 · Diferenciación dinámica de Metadata (H1, Title, Description) a nivel variante cuando la URL es plana: Soluciones con SSR o CSR</itunes:title>
       <description>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/04-t4.m4a" length="13805048" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-t4</guid>
-      <pubDate>Tue, 28 Oct 2025 23:13:05 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/04%20-%20Tema%204%20-%20Diferenciaci%C3%B3n%20din%C3%A1mica%20de%20Metadata%20%28H1%2C%20Title%2C.m4a" length="13805048" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-tema-4---diferenciacin-dinmica-de-metadata-h1-title</guid>
+      <pubDate>Tue, 28 Oct 2025 23:16:29 +0000</pubDate>
       <itunes:duration>13:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -135,9 +135,9 @@
       <itunes:title>M2·T5 · Estrategias de rastreo eficiente (Crawl Budget) para catálogos masivos con alta densidad de variantes</itunes:title>
       <description>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/05-t5.m4a" length="15644641" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-t5</guid>
-      <pubDate>Mon, 27 Oct 2025 23:13:05 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/05%20-%20Tema%205%20-%20Estrategias%20de%20rastreo%20eficiente%20%28Crawl%20Budget%29.m4a" length="15644641" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-tema-5---estrategias-de-rastreo-eficiente-crawl-budget</guid>
+      <pubDate>Mon, 27 Oct 2025 23:16:29 +0000</pubDate>
       <itunes:duration>15:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -152,9 +152,9 @@
       <itunes:title>M2·T6 · Caso de Estudio Retail: Cómo [Ej. Sephora/Douglas] resolvió la canibalización masiva de variantes de color en su migración de plataforma</itunes:title>
       <description>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</description>
       <itunes:summary>PDP gh - Gurús del Humo. Para desmentir mitos del sector. Podcast de Liverpool México.</itunes:summary>
-      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/06-t6.m4a" length="12675763" type="audio/mp4"/>
-      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-t6</guid>
-      <pubDate>Sun, 26 Oct 2025 23:13:05 +0000</pubDate>
+      <enclosure url="https://pinachoperez.github.io/gd-h7k2m9qx4p/02%20-%20F28%20M4%20I0%20-%20Reestructuraci%C3%B3n%20y%20Gobern/06%20-%20Tema%206%20-%20Caso%20de%20Estudio%20Retail-%20C%C3%B3mo%20%5BEj.%20Sephora-Douglas%5D.m4a" length="12675763" type="audio/mp4"/>
+      <guid isPermaLink="false">gurus-del-humo-reestructuracin-y-gobern-tema-6---caso-de-estudio-retail--cmo-ej-sephora-douglas</guid>
+      <pubDate>Sun, 26 Oct 2025 23:16:29 +0000</pubDate>
       <itunes:duration>12:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
